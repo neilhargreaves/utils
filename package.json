@@ -1,0 +1,8 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "dependencies": {
+    "convert-excel-to-json": "^1.4.0",
+    "lodash": "^4.17.10"
+  }
+}

@@ -1,5 +1,3 @@
-const readline = require('readline');
-
 function processArray(array, fn, fnArgs) {
   let index = 0;
 
@@ -9,10 +7,6 @@ function processArray(array, fn, fnArgs) {
         console.log("Progress:", index + "/" + array.length);
 
       if (index < array.length) {
-        //readline.clearLine(process.stdout); //clear current line
-        //readline.cursorTo(process.stdout, 0);
-        //process.stdout.write(`Processing ${ index + 1 } of ${ array.length }`);
-        //readline.cursorTo(process.stdout, 0); //instantly return to 0 so other text is not pushed over
         if(fnArgs) {
           fn(array[index++], ...fnArgs).then(next);
         }
@@ -20,8 +14,6 @@ function processArray(array, fn, fnArgs) {
           fn(array[index++]).then(next);
         }
       } else {
-        //readline.clearLine(process.stdout); //clear current line
-        //readline.cursorTo(process.stdout, 0);
         resolve();
       }
     }

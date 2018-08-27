@@ -1,0 +1,6733 @@
+{
+  "currency": [
+    {
+      "currency": "United Arab Emirates dirham",
+      "alphaCode": "AED",
+      "numericCode": 784,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Afghan afghani",
+      "alphaCode": "AFN",
+      "numericCode": 971,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Albanian lek",
+      "alphaCode": "ALL",
+      "numericCode": 8,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Armenian dram",
+      "alphaCode": "AMD",
+      "numericCode": 51,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Netherlands Antillean guilder",
+      "alphaCode": "ANG",
+      "numericCode": 532,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Angolan kwanza",
+      "alphaCode": "AOA",
+      "numericCode": 973,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Argentine peso",
+      "alphaCode": "ARS",
+      "numericCode": 32,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Australian dollar",
+      "alphaCode": "AUD",
+      "numericCode": 36,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Aruban florin",
+      "alphaCode": "AWG",
+      "numericCode": 533,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Azerbaijani manat",
+      "alphaCode": "AZN",
+      "numericCode": 944,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bosnia and Herzegovina convertible mark",
+      "alphaCode": "BAM",
+      "numericCode": 977,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Barbados dollar",
+      "alphaCode": "BBD",
+      "numericCode": 52,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bangladeshi taka",
+      "alphaCode": "BDT",
+      "numericCode": 50,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bulgarian lev",
+      "alphaCode": "BGN",
+      "numericCode": 975,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bahraini dinar",
+      "alphaCode": "BHD",
+      "numericCode": 48,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Burundian franc",
+      "alphaCode": "BIF",
+      "numericCode": 108,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Bermudian dollar",
+      "alphaCode": "BMD",
+      "numericCode": 60,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brunei dollar",
+      "alphaCode": "BND",
+      "numericCode": 96,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Boliviano",
+      "alphaCode": "BOB",
+      "numericCode": 68,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bolivian Mvdol",
+      "alphaCode": "BOV",
+      "numericCode": 984,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brazilian real",
+      "alphaCode": "BRL",
+      "numericCode": 986,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bahamian dollar",
+      "alphaCode": "BSD",
+      "numericCode": 44,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bhutanese ngultrum",
+      "alphaCode": "BTN",
+      "numericCode": 64,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Botswana pula",
+      "alphaCode": "BWP",
+      "numericCode": 72,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Belarusian ruble",
+      "alphaCode": "BYN",
+      "numericCode": 933,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Belize dollar",
+      "alphaCode": "BZD",
+      "numericCode": 84,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Canadian dollar",
+      "alphaCode": "CAD",
+      "numericCode": 124,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Congolese franc",
+      "alphaCode": "CDF",
+      "numericCode": 976,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "WIR Euro",
+      "alphaCode": "CHE",
+      "numericCode": 947,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Swiss franc",
+      "alphaCode": "CHF",
+      "numericCode": 756,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "WIR Franc",
+      "alphaCode": "CHW",
+      "numericCode": 948,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Unidad de Fomento",
+      "alphaCode": "CLF",
+      "numericCode": 990,
+      "decimalPlaces": 4
+    },
+    {
+      "currency": "Chilean peso",
+      "alphaCode": "CLP",
+      "numericCode": 152,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Renminbi (Chinese) yuan",
+      "alphaCode": "CNY",
+      "numericCode": 156,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Colombian peso",
+      "alphaCode": "COP",
+      "numericCode": 170,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Unidad de Valor Real",
+      "alphaCode": "COU",
+      "numericCode": 970,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Costa Rican colon",
+      "alphaCode": "CRC",
+      "numericCode": 188,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Cuban convertible peso",
+      "alphaCode": "CUC",
+      "numericCode": 931,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Cuban peso",
+      "alphaCode": "CUP",
+      "numericCode": 192,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Cape Verde escudo",
+      "alphaCode": "CVE",
+      "numericCode": 132,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Czech koruna",
+      "alphaCode": "CZK",
+      "numericCode": 203,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Djiboutian franc",
+      "alphaCode": "DJF",
+      "numericCode": 262,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Danish krone",
+      "alphaCode": "DKK",
+      "numericCode": 208,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Dominican peso",
+      "alphaCode": "DOP",
+      "numericCode": 214,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Algerian dinar",
+      "alphaCode": "DZD",
+      "numericCode": 12,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Egyptian pound",
+      "alphaCode": "EGP",
+      "numericCode": 818,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Eritrean nakfa",
+      "alphaCode": "ERN",
+      "numericCode": 232,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Ethiopian birr",
+      "alphaCode": "ETB",
+      "numericCode": 230,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Euro",
+      "alphaCode": "EUR",
+      "numericCode": 978,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Fiji dollar",
+      "alphaCode": "FJD",
+      "numericCode": 242,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Falkland Islands pound",
+      "alphaCode": "FKP",
+      "numericCode": 238,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Pound sterling",
+      "alphaCode": "GBP",
+      "numericCode": 826,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Georgian lari",
+      "alphaCode": "GEL",
+      "numericCode": 981,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Ghanaian cedi",
+      "alphaCode": "GHS",
+      "numericCode": 936,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Gibraltar pound",
+      "alphaCode": "GIP",
+      "numericCode": 292,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Gambian dalasi",
+      "alphaCode": "GMD",
+      "numericCode": 270,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Guinean franc",
+      "alphaCode": "GNF",
+      "numericCode": 324,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Guatemalan quetzal",
+      "alphaCode": "GTQ",
+      "numericCode": 320,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Guyanese dollar",
+      "alphaCode": "GYD",
+      "numericCode": 328,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Hong Kong dollar",
+      "alphaCode": "HKD",
+      "numericCode": 344,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Honduran lempira",
+      "alphaCode": "HNL",
+      "numericCode": 340,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Croatian kuna",
+      "alphaCode": "HRK",
+      "numericCode": 191,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Haitian gourde",
+      "alphaCode": "HTG",
+      "numericCode": 332,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Hungarian forint",
+      "alphaCode": "HUF",
+      "numericCode": 348,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Indonesian rupiah",
+      "alphaCode": "IDR",
+      "numericCode": 360,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Israeli new shekel",
+      "alphaCode": "ILS",
+      "numericCode": 376,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Indian rupee",
+      "alphaCode": "INR",
+      "numericCode": 356,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Iraqi dinar",
+      "alphaCode": "IQD",
+      "numericCode": 368,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Iranian rial",
+      "alphaCode": "IRR",
+      "numericCode": 364,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Icelandic króna",
+      "alphaCode": "ISK",
+      "numericCode": 352,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Jamaican dollar",
+      "alphaCode": "JMD",
+      "numericCode": 388,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Jordanian dinar",
+      "alphaCode": "JOD",
+      "numericCode": 400,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Japanese yen",
+      "alphaCode": "JPY",
+      "numericCode": 392,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Kenyan shilling",
+      "alphaCode": "KES",
+      "numericCode": 404,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Kyrgyzstani som",
+      "alphaCode": "KGS",
+      "numericCode": 417,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Cambodian riel",
+      "alphaCode": "KHR",
+      "numericCode": 116,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Comoro franc",
+      "alphaCode": "KMF",
+      "numericCode": 174,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "North Korean won",
+      "alphaCode": "KPW",
+      "numericCode": 408,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "South Korean won",
+      "alphaCode": "KRW",
+      "numericCode": 410,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Kuwaiti dinar",
+      "alphaCode": "KWD",
+      "numericCode": 414,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Cayman Islands dollar",
+      "alphaCode": "KYD",
+      "numericCode": 136,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Kazakhstani tenge",
+      "alphaCode": "KZT",
+      "numericCode": 398,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Lao kip",
+      "alphaCode": "LAK",
+      "numericCode": 418,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Lebanese pound",
+      "alphaCode": "LBP",
+      "numericCode": 422,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Sri Lankan rupee",
+      "alphaCode": "LKR",
+      "numericCode": 144,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Liberian dollar",
+      "alphaCode": "LRD",
+      "numericCode": 430,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Lesotho loti",
+      "alphaCode": "LSL",
+      "numericCode": 426,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Libyan dinar",
+      "alphaCode": "LYD",
+      "numericCode": 434,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Moroccan dirham",
+      "alphaCode": "MAD",
+      "numericCode": 504,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Moldovan leu",
+      "alphaCode": "MDL",
+      "numericCode": 498,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Malagasy ariary",
+      "alphaCode": "MGA",
+      "numericCode": 969,
+      "decimalPlaces": 1
+    },
+    {
+      "currency": "Macedonian denar",
+      "alphaCode": "MKD",
+      "numericCode": 807,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Myanmar kyat",
+      "alphaCode": "MMK",
+      "numericCode": 104,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Mongolian tögrög",
+      "alphaCode": "MNT",
+      "numericCode": 496,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Macanese pataca",
+      "alphaCode": "MOP",
+      "numericCode": 446,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Mauritanian ouguiya",
+      "alphaCode": "MRU",
+      "numericCode": 929,
+      "decimalPlaces": 1
+    },
+    {
+      "currency": "Mauritian rupee",
+      "alphaCode": "MUR",
+      "numericCode": 480,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Maldivian rufiyaa",
+      "alphaCode": "MVR",
+      "numericCode": 462,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Malawian kwacha",
+      "alphaCode": "MWK",
+      "numericCode": 454,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Mexican peso",
+      "alphaCode": "MXN",
+      "numericCode": 484,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Mexican Unidad de Inversion",
+      "alphaCode": "MXV",
+      "numericCode": 979,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Malaysian ringgit",
+      "alphaCode": "MYR",
+      "numericCode": 458,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Mozambican metical",
+      "alphaCode": "MZN",
+      "numericCode": 943,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Namibian dollar",
+      "alphaCode": "NAD",
+      "numericCode": 516,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Nigerian naira",
+      "alphaCode": "NGN",
+      "numericCode": 566,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Nicaraguan córdoba",
+      "alphaCode": "NIO",
+      "numericCode": 558,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Norwegian krone",
+      "alphaCode": "NOK",
+      "numericCode": 578,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Nepalese rupee",
+      "alphaCode": "NPR",
+      "numericCode": 524,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "New Zealand dollar",
+      "alphaCode": "NZD",
+      "numericCode": 554,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Omani rial",
+      "alphaCode": "OMR",
+      "numericCode": 512,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Panamanian balboa",
+      "alphaCode": "PAB",
+      "numericCode": 590,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Peruvian sol",
+      "alphaCode": "PEN",
+      "numericCode": 604,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Papua New Guinean kina",
+      "alphaCode": "PGK",
+      "numericCode": 598,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Philippine piso",
+      "alphaCode": "PHP",
+      "numericCode": 608,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Pakistani rupee",
+      "alphaCode": "PKR",
+      "numericCode": 586,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Polish złoty",
+      "alphaCode": "PLN",
+      "numericCode": 985,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Paraguayan guaraní",
+      "alphaCode": "PYG",
+      "numericCode": 600,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Qatari riyal",
+      "alphaCode": "QAR",
+      "numericCode": 634,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Romanian leu",
+      "alphaCode": "RON",
+      "numericCode": 946,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Serbian dinar",
+      "alphaCode": "RSD",
+      "numericCode": 941,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Russian ruble",
+      "alphaCode": "RUB",
+      "numericCode": 643,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Rwandan franc",
+      "alphaCode": "RWF",
+      "numericCode": 646,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Saudi riyal",
+      "alphaCode": "SAR",
+      "numericCode": 682,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Solomon Islands dollar",
+      "alphaCode": "SBD",
+      "numericCode": 90,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Seychelles rupee",
+      "alphaCode": "SCR",
+      "numericCode": 690,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Sudanese pound",
+      "alphaCode": "SDG",
+      "numericCode": 938,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Swedish krona/kronor",
+      "alphaCode": "SEK",
+      "numericCode": 752,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Singapore dollar",
+      "alphaCode": "SGD",
+      "numericCode": 702,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Saint Helena pound",
+      "alphaCode": "SHP",
+      "numericCode": 654,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Sierra Leonean leone",
+      "alphaCode": "SLL",
+      "numericCode": 694,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Somali shilling",
+      "alphaCode": "SOS",
+      "numericCode": 706,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Surinamese dollar",
+      "alphaCode": "SRD",
+      "numericCode": 968,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "South Sudanese pound",
+      "alphaCode": "SSP",
+      "numericCode": 728,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "São Tomé and Príncipe dobra",
+      "alphaCode": "STN",
+      "numericCode": 930,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Salvadoran colón",
+      "alphaCode": "SVC",
+      "numericCode": 222,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Syrian pound",
+      "alphaCode": "SYP",
+      "numericCode": 760,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Swazi lilangeni",
+      "alphaCode": "SZL",
+      "numericCode": 748,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Thai baht",
+      "alphaCode": "THB",
+      "numericCode": 764,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Tajikistani somoni",
+      "alphaCode": "TJS",
+      "numericCode": 972,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Turkmenistan manat",
+      "alphaCode": "TMT",
+      "numericCode": 934,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Tunisian dinar",
+      "alphaCode": "TND",
+      "numericCode": 788,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Tongan paʻanga",
+      "alphaCode": "TOP",
+      "numericCode": 776,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Turkish lira",
+      "alphaCode": "TRY",
+      "numericCode": 949,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Trinidad and Tobago dollar",
+      "alphaCode": "TTD",
+      "numericCode": 780,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "New Taiwan dollar",
+      "alphaCode": "TWD",
+      "numericCode": 901,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Tanzanian shilling",
+      "alphaCode": "TZS",
+      "numericCode": 834,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Ukrainian hryvnia",
+      "alphaCode": "UAH",
+      "numericCode": 980,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Ugandan shilling",
+      "alphaCode": "UGX",
+      "numericCode": 800,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "United States dollar",
+      "alphaCode": "USD",
+      "numericCode": 840,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "United States dollar (next day)",
+      "alphaCode": "USN",
+      "numericCode": 997,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Uruguay Peso en Unidades Indexadas",
+      "alphaCode": "UYI",
+      "numericCode": 940,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Uruguayan peso",
+      "alphaCode": "UYU",
+      "numericCode": 858,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Uzbekistan som",
+      "alphaCode": "UZS",
+      "numericCode": 860,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Venezuelan bolívar",
+      "alphaCode": "VEF",
+      "numericCode": 937,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Vietnamese đồng",
+      "alphaCode": "VND",
+      "numericCode": 704,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Vanuatu vatu",
+      "alphaCode": "VUV",
+      "numericCode": 548,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Samoan tala",
+      "alphaCode": "WST",
+      "numericCode": 882,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "CFA franc BEAC",
+      "alphaCode": "XAF",
+      "numericCode": 950,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Silver (one troy ounce)",
+      "alphaCode": "XAG",
+      "numericCode": 961
+    },
+    {
+      "currency": "Gold (one troy ounce)",
+      "alphaCode": "XAU",
+      "numericCode": 959
+    },
+    {
+      "currency": "European Composite Unit",
+      "alphaCode": "XBA",
+      "numericCode": 955
+    },
+    {
+      "currency": "European Monetary Unit",
+      "alphaCode": "XBB",
+      "numericCode": 956
+    },
+    {
+      "currency": "European Unit of Account 9",
+      "alphaCode": "XBC",
+      "numericCode": 957
+    },
+    {
+      "currency": "European Unit of Account 17",
+      "alphaCode": "XBD",
+      "numericCode": 958
+    },
+    {
+      "currency": "East Caribbean dollar",
+      "alphaCode": "XCD",
+      "numericCode": 951,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Special drawing rights",
+      "alphaCode": "XDR",
+      "numericCode": 960
+    },
+    {
+      "currency": "CFA franc BCEAO",
+      "alphaCode": "XOF",
+      "numericCode": 952,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Palladium (one troy ounce)",
+      "alphaCode": "XPD",
+      "numericCode": 964
+    },
+    {
+      "currency": "CFP franc (franc Pacifique)",
+      "alphaCode": "XPF",
+      "numericCode": 953,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Platinum (one troy ounce)",
+      "alphaCode": "XPT",
+      "numericCode": 962
+    },
+    {
+      "currency": "SUCRE",
+      "alphaCode": "XSU",
+      "numericCode": 994
+    },
+    {
+      "currency": "Code reserved for testing purposes",
+      "alphaCode": "XTS",
+      "numericCode": 963
+    },
+    {
+      "currency": "ADB Unit of Account",
+      "alphaCode": "XUA",
+      "numericCode": 965
+    },
+    {
+      "currency": "No currency",
+      "alphaCode": "XXX",
+      "numericCode": 999
+    },
+    {
+      "currency": "Yemeni rial",
+      "alphaCode": "YER",
+      "numericCode": 886,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "South African rand",
+      "alphaCode": "ZAR",
+      "numericCode": 710,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zambian kwacha",
+      "alphaCode": "ZMW",
+      "numericCode": 967,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zimbabwean dollar",
+      "alphaCode": "ZWL",
+      "numericCode": 932,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bolívar Soberano",
+      "alphaCode": "VES",
+      "numericCode": 928,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "UIC franc",
+      "alphaCode": "XFU"
+    },
+    {
+      "currency": "Andorran franc",
+      "alphaCode": "ADF",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Andorran peseta",
+      "alphaCode": "ADP",
+      "numericCode": 20,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Austrian schilling",
+      "alphaCode": "ATS",
+      "numericCode": 40,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bosnia and Herzegovina dinar",
+      "alphaCode": "BAD",
+      "numericCode": 70,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Belgian franc",
+      "alphaCode": "BEF",
+      "numericCode": 56,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Belarusian ruble",
+      "alphaCode": "BYB",
+      "numericCode": 112,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Belarusian ruble",
+      "alphaCode": "BYR",
+      "numericCode": 974,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Cypriot pound",
+      "alphaCode": "CYP",
+      "numericCode": 196,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "German mark",
+      "alphaCode": "DEM",
+      "numericCode": 276,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Estonian kroon",
+      "alphaCode": "EEK",
+      "numericCode": 233,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Spanish peseta",
+      "alphaCode": "ESP",
+      "numericCode": 724,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Finnish markka",
+      "alphaCode": "FIM",
+      "numericCode": 246,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "French franc",
+      "alphaCode": "FRF",
+      "numericCode": 250,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Greek drachma",
+      "alphaCode": "GRD",
+      "numericCode": 300,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Irish pound",
+      "alphaCode": "IEP",
+      "numericCode": 372,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Italian lira",
+      "alphaCode": "ITL",
+      "numericCode": 380,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Lithuanian litas",
+      "alphaCode": "LTL",
+      "numericCode": 440,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Luxembourg franc",
+      "alphaCode": "LUF",
+      "numericCode": 442,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Latvian lats",
+      "alphaCode": "LVL",
+      "numericCode": 428,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Monegasque franc",
+      "alphaCode": "MCF",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Moroccan franc",
+      "alphaCode": "MAF"
+    },
+    {
+      "currency": "Maltese lira",
+      "alphaCode": "MTL",
+      "numericCode": 470,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Dutch guilder",
+      "alphaCode": "NLG",
+      "numericCode": 528,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Portuguese escudo",
+      "alphaCode": "PTE",
+      "numericCode": 620,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Slovenian tolar",
+      "alphaCode": "SIT",
+      "numericCode": 705,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Slovak koruna",
+      "alphaCode": "SKK",
+      "numericCode": 703,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "San Marinese lira",
+      "alphaCode": "SML",
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Vatican lira",
+      "alphaCode": "VAL",
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "European Currency Unit",
+      "alphaCode": "XEU",
+      "numericCode": 954
+    },
+    {
+      "currency": "Afghan afghani",
+      "alphaCode": "AFA",
+      "numericCode": 4
+    },
+    {
+      "currency": "Angolan kwanza",
+      "alphaCode": "AOK",
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Angolan new kwanza",
+      "alphaCode": "AON",
+      "numericCode": 24,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Angolan kwanza readjustado",
+      "alphaCode": "AOR",
+      "numericCode": 982,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Argentine peso ley",
+      "alphaCode": "ARL",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Argentine peso argentino",
+      "alphaCode": "ARP",
+      "numericCode": 32,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Argentine austral",
+      "alphaCode": "ARA",
+      "numericCode": 32,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Azerbaijani manat",
+      "alphaCode": "AZM",
+      "numericCode": 31,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Bulgarian lev",
+      "alphaCode": "BGL",
+      "numericCode": 100,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Bolivian peso",
+      "alphaCode": "BOP",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brazilian cruzeiro",
+      "alphaCode": "BRB",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brazilian cruzado",
+      "alphaCode": "BRC",
+      "numericCode": 76,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brazilian cruzado novo",
+      "alphaCode": "BRN",
+      "numericCode": 76,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brazilian cruzeiro",
+      "alphaCode": "BRE",
+      "numericCode": 76,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Brazilian cruzeiro real",
+      "alphaCode": "BRR",
+      "numericCode": 987,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Serbian dinar",
+      "alphaCode": "CSD",
+      "numericCode": 891,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Czechoslovak koruna",
+      "alphaCode": "CSK",
+      "numericCode": 200
+    },
+    {
+      "currency": "East German mark",
+      "alphaCode": "DDM",
+      "numericCode": 278
+    },
+    {
+      "currency": "Ecuadorian sucre",
+      "alphaCode": "ECS",
+      "numericCode": 218,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Ecuador Unidad de Valor Constante",
+      "alphaCode": "ECV",
+      "numericCode": 983
+    },
+    {
+      "currency": "Equatorial Guinean ekwele",
+      "alphaCode": "GQE"
+    },
+    {
+      "currency": "Spanish peseta (account A)",
+      "alphaCode": "ESA",
+      "numericCode": 996
+    },
+    {
+      "currency": "Spanish peseta (account B)",
+      "alphaCode": "ESB",
+      "numericCode": 995
+    },
+    {
+      "currency": "Guinean syli",
+      "alphaCode": "GNE"
+    },
+    {
+      "currency": "Ghanaian cedi",
+      "alphaCode": "GHC",
+      "numericCode": 288,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Guinea-Bissau peso",
+      "alphaCode": "GWP",
+      "numericCode": 624
+    },
+    {
+      "currency": "Croatian dinar",
+      "alphaCode": "HRD",
+      "numericCode": 191
+    },
+    {
+      "currency": "Israeli lira",
+      "alphaCode": "ILP",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Israeli shekel",
+      "alphaCode": "ILR",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Icelandic króna",
+      "alphaCode": "ISJ",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Lao kip",
+      "alphaCode": "LAJ"
+    },
+    {
+      "currency": "Malagasy franc",
+      "alphaCode": "MGF",
+      "numericCode": 450,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Old Macedonian denar",
+      "alphaCode": "MKN"
+    },
+    {
+      "currency": "Mali franc",
+      "alphaCode": "MLF",
+      "numericCode": 466
+    },
+    {
+      "currency": "Maldivian rupee",
+      "alphaCode": "MVQ"
+    },
+    {
+      "currency": "Mauritanian Ouguiya",
+      "alphaCode": "MRO",
+      "numericCode": 478
+    },
+    {
+      "currency": "Mexican peso",
+      "alphaCode": "MXP"
+    },
+    {
+      "currency": "Mozambican metical",
+      "alphaCode": "MZM",
+      "numericCode": 508,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Nicaraguan córdoba",
+      "alphaCode": "NIC",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Peruvian old sol",
+      "alphaCode": "PEH"
+    },
+    {
+      "currency": "Peruvian inti",
+      "alphaCode": "PEI",
+      "numericCode": 604
+    },
+    {
+      "currency": "Polish zloty",
+      "alphaCode": "PLZ",
+      "numericCode": 616
+    },
+    {
+      "currency": "Portuguese Timorese escudo",
+      "alphaCode": "TPE",
+      "numericCode": 626
+    },
+    {
+      "currency": "Romanian leu",
+      "alphaCode": "ROL",
+      "numericCode": 642
+    },
+    {
+      "currency": "Russian ruble",
+      "alphaCode": "RUR",
+      "numericCode": 810,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Sudanese old pound",
+      "alphaCode": "SDP"
+    },
+    {
+      "currency": "Sudanese dinar",
+      "alphaCode": "SDD",
+      "numericCode": 736
+    },
+    {
+      "currency": "Suriname guilder",
+      "alphaCode": "SRG",
+      "numericCode": 740
+    },
+    {
+      "currency": "São Tomé and Príncipe Dobra",
+      "alphaCode": "STD",
+      "numericCode": 678
+    },
+    {
+      "currency": "Soviet Union ruble",
+      "alphaCode": "SUR"
+    },
+    {
+      "currency": "Tajikistani ruble",
+      "alphaCode": "TJR",
+      "numericCode": 762
+    },
+    {
+      "currency": "Turkmenistani manat",
+      "alphaCode": "TMM",
+      "numericCode": 795,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Turkish lira",
+      "alphaCode": "TRL",
+      "numericCode": 792,
+      "decimalPlaces": 0
+    },
+    {
+      "currency": "Ukrainian karbovanets",
+      "alphaCode": "UAK",
+      "numericCode": 804
+    },
+    {
+      "currency": "Ugandan shilling",
+      "alphaCode": "UGS"
+    },
+    {
+      "currency": "United States dollar (same day)",
+      "alphaCode": "USS",
+      "numericCode": 998,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Uruguay peso",
+      "alphaCode": "UYP"
+    },
+    {
+      "currency": "Uruguay new peso",
+      "alphaCode": "UYN"
+    },
+    {
+      "currency": "Venezuelan bolívar",
+      "alphaCode": "VEB",
+      "numericCode": 862,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Gold franc (special settlement currency)",
+      "alphaCode": "XFO"
+    },
+    {
+      "currency": "South Yemeni dinar",
+      "alphaCode": "YDD",
+      "numericCode": 720
+    },
+    {
+      "currency": "Yugoslav dinar",
+      "alphaCode": "YUD",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Yugoslav dinar",
+      "alphaCode": "YUN",
+      "numericCode": 890,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Yugoslav dinar",
+      "alphaCode": "YUR",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Yugoslav dinar",
+      "alphaCode": "YUO",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Yugoslav dinar",
+      "alphaCode": "YUG",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Yugoslav dinar",
+      "alphaCode": "YUM",
+      "numericCode": 891,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "South African financial rand",
+      "alphaCode": "ZAL",
+      "numericCode": 991
+    },
+    {
+      "currency": "Zambian kwacha",
+      "alphaCode": "ZMK",
+      "numericCode": 894,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zairean new zaire",
+      "alphaCode": "ZRN",
+      "numericCode": 180,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zairean zaire",
+      "alphaCode": "ZRZ",
+      "numericCode": 180,
+      "decimalPlaces": 3
+    },
+    {
+      "currency": "Rhodesian dollar",
+      "alphaCode": "ZWC",
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zimbabwean dollar",
+      "alphaCode": "ZWD",
+      "numericCode": 716,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zimbabwean dollar",
+      "alphaCode": "ZWN",
+      "numericCode": 942,
+      "decimalPlaces": 2
+    },
+    {
+      "currency": "Zimbabwean dollar",
+      "alphaCode": "ZWR",
+      "numericCode": 935,
+      "decimalPlaces": 2
+    }
+  ],
+  "currencySymbols": [
+    {
+      "countryAndCurrency": "Albania Lek",
+      "currencyCode": "ALL",
+      "fontCode2000": "Lek",
+      "fontArialUnicodeMs": "Lek"
+    },
+    {
+      "countryAndCurrency": "Afghanistan Afghani",
+      "currencyCode": "AFN",
+      "fontCode2000": "؋",
+      "fontArialUnicodeMs": "؋"
+    },
+    {
+      "countryAndCurrency": "Argentina Peso",
+      "currencyCode": "ARS",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Aruba Guilder",
+      "currencyCode": "AWG",
+      "fontCode2000": "ƒ",
+      "fontArialUnicodeMs": "ƒ"
+    },
+    {
+      "countryAndCurrency": "Australia Dollar",
+      "currencyCode": "AUD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Azerbaijan Manat",
+      "currencyCode": "AZN",
+      "fontCode2000": "₼",
+      "fontArialUnicodeMs": "₼"
+    },
+    {
+      "countryAndCurrency": "Bahamas Dollar",
+      "currencyCode": "BSD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Barbados Dollar",
+      "currencyCode": "BBD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Belarus Ruble",
+      "currencyCode": "BYN",
+      "fontCode2000": "Br",
+      "fontArialUnicodeMs": "Br"
+    },
+    {
+      "countryAndCurrency": "Belize Dollar",
+      "currencyCode": "BZD",
+      "fontCode2000": "BZ$",
+      "fontArialUnicodeMs": "BZ$"
+    },
+    {
+      "countryAndCurrency": "Bermuda Dollar",
+      "currencyCode": "BMD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Bolivia Bolíviano",
+      "currencyCode": "BOB",
+      "fontCode2000": "$b",
+      "fontArialUnicodeMs": "$b"
+    },
+    {
+      "countryAndCurrency": "Bosnia and Herzegovina Convertible Marka",
+      "currencyCode": "BAM",
+      "fontCode2000": "KM",
+      "fontArialUnicodeMs": "KM"
+    },
+    {
+      "countryAndCurrency": "Botswana Pula",
+      "currencyCode": "BWP",
+      "fontCode2000": "P",
+      "fontArialUnicodeMs": "P"
+    },
+    {
+      "countryAndCurrency": "Bulgaria Lev",
+      "currencyCode": "BGN",
+      "fontCode2000": "лв",
+      "fontArialUnicodeMs": "лв"
+    },
+    {
+      "countryAndCurrency": "Brazil Real",
+      "currencyCode": "BRL",
+      "fontCode2000": "R$",
+      "fontArialUnicodeMs": "R$"
+    },
+    {
+      "countryAndCurrency": "Brunei Darussalam Dollar",
+      "currencyCode": "BND",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Cambodia Riel",
+      "currencyCode": "KHR",
+      "fontCode2000": "៛",
+      "fontArialUnicodeMs": "៛"
+    },
+    {
+      "countryAndCurrency": "Canada Dollar",
+      "currencyCode": "CAD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Cayman Islands Dollar",
+      "currencyCode": "KYD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Chile Peso",
+      "currencyCode": "CLP",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "China Yuan Renminbi",
+      "currencyCode": "CNY",
+      "fontCode2000": "¥",
+      "fontArialUnicodeMs": "¥"
+    },
+    {
+      "countryAndCurrency": "Colombia Peso",
+      "currencyCode": "COP",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Costa Rica Colon",
+      "currencyCode": "CRC",
+      "fontCode2000": "₡",
+      "fontArialUnicodeMs": "₡"
+    },
+    {
+      "countryAndCurrency": "Croatia Kuna",
+      "currencyCode": "HRK",
+      "fontCode2000": "kn",
+      "fontArialUnicodeMs": "kn"
+    },
+    {
+      "countryAndCurrency": "Cuba Peso",
+      "currencyCode": "CUP",
+      "fontCode2000": "₱",
+      "fontArialUnicodeMs": "₱"
+    },
+    {
+      "countryAndCurrency": "Czech Republic Koruna",
+      "currencyCode": "CZK",
+      "fontCode2000": "Kč",
+      "fontArialUnicodeMs": "Kč"
+    },
+    {
+      "countryAndCurrency": "Denmark Krone",
+      "currencyCode": "DKK",
+      "fontCode2000": "kr",
+      "fontArialUnicodeMs": "kr"
+    },
+    {
+      "countryAndCurrency": "Dominican Republic Peso",
+      "currencyCode": "DOP",
+      "fontCode2000": "RD$",
+      "fontArialUnicodeMs": "RD$"
+    },
+    {
+      "countryAndCurrency": "East Caribbean Dollar",
+      "currencyCode": "XCD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Egypt Pound",
+      "currencyCode": "EGP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "El Salvador Colon",
+      "currencyCode": "SVC",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Euro Member Countries",
+      "currencyCode": "EUR",
+      "fontCode2000": "€",
+      "fontArialUnicodeMs": "€"
+    },
+    {
+      "countryAndCurrency": "Falkland Islands (Malvinas) Pound",
+      "currencyCode": "FKP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Fiji Dollar",
+      "currencyCode": "FJD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Ghana Cedi",
+      "currencyCode": "GHS",
+      "fontCode2000": "¢",
+      "fontArialUnicodeMs": "¢"
+    },
+    {
+      "countryAndCurrency": "Gibraltar Pound",
+      "currencyCode": "GIP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Guatemala Quetzal",
+      "currencyCode": "GTQ",
+      "fontCode2000": "Q",
+      "fontArialUnicodeMs": "Q"
+    },
+    {
+      "countryAndCurrency": "Guernsey Pound",
+      "currencyCode": "GGP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Guyana Dollar",
+      "currencyCode": "GYD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Honduras Lempira",
+      "currencyCode": "HNL",
+      "fontCode2000": "L",
+      "fontArialUnicodeMs": "L"
+    },
+    {
+      "countryAndCurrency": "Hong Kong Dollar",
+      "currencyCode": "HKD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Hungary Forint",
+      "currencyCode": "HUF",
+      "fontCode2000": "Ft",
+      "fontArialUnicodeMs": "Ft"
+    },
+    {
+      "countryAndCurrency": "Iceland Krona",
+      "currencyCode": "ISK",
+      "fontCode2000": "kr",
+      "fontArialUnicodeMs": "kr"
+    },
+    {
+      "countryAndCurrency": "India Rupee",
+      "currencyCode": "INR"
+    },
+    {
+      "countryAndCurrency": "Indonesia Rupiah",
+      "currencyCode": "IDR",
+      "fontCode2000": "Rp",
+      "fontArialUnicodeMs": "Rp"
+    },
+    {
+      "countryAndCurrency": "Iran Rial",
+      "currencyCode": "IRR",
+      "fontCode2000": "﷼",
+      "fontArialUnicodeMs": "﷼"
+    },
+    {
+      "countryAndCurrency": "Isle of Man Pound",
+      "currencyCode": "IMP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Israel Shekel",
+      "currencyCode": "ILS",
+      "fontCode2000": "₪",
+      "fontArialUnicodeMs": "₪"
+    },
+    {
+      "countryAndCurrency": "Jamaica Dollar",
+      "currencyCode": "JMD",
+      "fontCode2000": "J$",
+      "fontArialUnicodeMs": "J$"
+    },
+    {
+      "countryAndCurrency": "Japan Yen",
+      "currencyCode": "JPY",
+      "fontCode2000": "¥",
+      "fontArialUnicodeMs": "¥"
+    },
+    {
+      "countryAndCurrency": "Jersey Pound",
+      "currencyCode": "JEP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Kazakhstan Tenge",
+      "currencyCode": "KZT",
+      "fontCode2000": "лв",
+      "fontArialUnicodeMs": "лв"
+    },
+    {
+      "countryAndCurrency": "Korea (North) Won",
+      "currencyCode": "KPW",
+      "fontCode2000": "₩",
+      "fontArialUnicodeMs": "₩"
+    },
+    {
+      "countryAndCurrency": "Korea (South) Won",
+      "currencyCode": "KRW",
+      "fontCode2000": "₩",
+      "fontArialUnicodeMs": "₩"
+    },
+    {
+      "countryAndCurrency": "Kyrgyzstan Som",
+      "currencyCode": "KGS",
+      "fontCode2000": "лв",
+      "fontArialUnicodeMs": "лв"
+    },
+    {
+      "countryAndCurrency": "Laos Kip",
+      "currencyCode": "LAK",
+      "fontCode2000": "₭",
+      "fontArialUnicodeMs": "₭"
+    },
+    {
+      "countryAndCurrency": "Lebanon Pound",
+      "currencyCode": "LBP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Liberia Dollar",
+      "currencyCode": "LRD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Macedonia Denar",
+      "currencyCode": "MKD",
+      "fontCode2000": "ден",
+      "fontArialUnicodeMs": "ден"
+    },
+    {
+      "countryAndCurrency": "Malaysia Ringgit",
+      "currencyCode": "MYR",
+      "fontCode2000": "RM",
+      "fontArialUnicodeMs": "RM"
+    },
+    {
+      "countryAndCurrency": "Mauritius Rupee",
+      "currencyCode": "MUR",
+      "fontCode2000": "₨",
+      "fontArialUnicodeMs": "₨"
+    },
+    {
+      "countryAndCurrency": "Mexico Peso",
+      "currencyCode": "MXN",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Mongolia Tughrik",
+      "currencyCode": "MNT",
+      "fontCode2000": "₮",
+      "fontArialUnicodeMs": "₮"
+    },
+    {
+      "countryAndCurrency": "Mozambique Metical",
+      "currencyCode": "MZN",
+      "fontCode2000": "MT",
+      "fontArialUnicodeMs": "MT"
+    },
+    {
+      "countryAndCurrency": "Namibia Dollar",
+      "currencyCode": "NAD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Nepal Rupee",
+      "currencyCode": "NPR",
+      "fontCode2000": "₨",
+      "fontArialUnicodeMs": "₨"
+    },
+    {
+      "countryAndCurrency": "Netherlands Antilles Guilder",
+      "currencyCode": "ANG",
+      "fontCode2000": "ƒ",
+      "fontArialUnicodeMs": "ƒ"
+    },
+    {
+      "countryAndCurrency": "New Zealand Dollar",
+      "currencyCode": "NZD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Nicaragua Cordoba",
+      "currencyCode": "NIO",
+      "fontCode2000": "C$",
+      "fontArialUnicodeMs": "C$"
+    },
+    {
+      "countryAndCurrency": "Nigeria Naira",
+      "currencyCode": "NGN",
+      "fontCode2000": "₦",
+      "fontArialUnicodeMs": "₦"
+    },
+    {
+      "countryAndCurrency": "Norway Krone",
+      "currencyCode": "NOK",
+      "fontCode2000": "kr",
+      "fontArialUnicodeMs": "kr"
+    },
+    {
+      "countryAndCurrency": "Oman Rial",
+      "currencyCode": "OMR",
+      "fontCode2000": "﷼",
+      "fontArialUnicodeMs": "﷼"
+    },
+    {
+      "countryAndCurrency": "Pakistan Rupee",
+      "currencyCode": "PKR",
+      "fontCode2000": "₨",
+      "fontArialUnicodeMs": "₨"
+    },
+    {
+      "countryAndCurrency": "Panama Balboa",
+      "currencyCode": "PAB",
+      "fontCode2000": "B/.",
+      "fontArialUnicodeMs": "B/."
+    },
+    {
+      "countryAndCurrency": "Paraguay Guarani",
+      "currencyCode": "PYG",
+      "fontCode2000": "Gs",
+      "fontArialUnicodeMs": "Gs"
+    },
+    {
+      "countryAndCurrency": "Peru Sol",
+      "currencyCode": "PEN",
+      "fontCode2000": "S/.",
+      "fontArialUnicodeMs": "S/."
+    },
+    {
+      "countryAndCurrency": "Philippines Piso",
+      "currencyCode": "PHP",
+      "fontCode2000": "₱",
+      "fontArialUnicodeMs": "₱"
+    },
+    {
+      "countryAndCurrency": "Poland Zloty",
+      "currencyCode": "PLN",
+      "fontCode2000": "zł",
+      "fontArialUnicodeMs": "zł"
+    },
+    {
+      "countryAndCurrency": "Qatar Riyal",
+      "currencyCode": "QAR",
+      "fontCode2000": "﷼",
+      "fontArialUnicodeMs": "﷼"
+    },
+    {
+      "countryAndCurrency": "Romania Leu",
+      "currencyCode": "RON",
+      "fontCode2000": "lei",
+      "fontArialUnicodeMs": "lei"
+    },
+    {
+      "countryAndCurrency": "Russia Ruble",
+      "currencyCode": "RUB",
+      "fontCode2000": "₽",
+      "fontArialUnicodeMs": "₽"
+    },
+    {
+      "countryAndCurrency": "Saint Helena Pound",
+      "currencyCode": "SHP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Saudi Arabia Riyal",
+      "currencyCode": "SAR",
+      "fontCode2000": "﷼",
+      "fontArialUnicodeMs": "﷼"
+    },
+    {
+      "countryAndCurrency": "Serbia Dinar",
+      "currencyCode": "RSD",
+      "fontCode2000": "Дин.",
+      "fontArialUnicodeMs": "Дин."
+    },
+    {
+      "countryAndCurrency": "Seychelles Rupee",
+      "currencyCode": "SCR",
+      "fontCode2000": "₨",
+      "fontArialUnicodeMs": "₨"
+    },
+    {
+      "countryAndCurrency": "Singapore Dollar",
+      "currencyCode": "SGD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Solomon Islands Dollar",
+      "currencyCode": "SBD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Somalia Shilling",
+      "currencyCode": "SOS",
+      "fontCode2000": "S",
+      "fontArialUnicodeMs": "S"
+    },
+    {
+      "countryAndCurrency": "South Africa Rand",
+      "currencyCode": "ZAR",
+      "fontCode2000": "R",
+      "fontArialUnicodeMs": "R"
+    },
+    {
+      "countryAndCurrency": "Sri Lanka Rupee",
+      "currencyCode": "LKR",
+      "fontCode2000": "₨",
+      "fontArialUnicodeMs": "₨"
+    },
+    {
+      "countryAndCurrency": "Sweden Krona",
+      "currencyCode": "SEK",
+      "fontCode2000": "kr",
+      "fontArialUnicodeMs": "kr"
+    },
+    {
+      "countryAndCurrency": "Switzerland Franc",
+      "currencyCode": "CHF",
+      "fontCode2000": "CHF",
+      "fontArialUnicodeMs": "CHF"
+    },
+    {
+      "countryAndCurrency": "Suriname Dollar",
+      "currencyCode": "SRD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Syria Pound",
+      "currencyCode": "SYP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "Taiwan New Dollar",
+      "currencyCode": "TWD",
+      "fontCode2000": "NT$",
+      "fontArialUnicodeMs": "NT$"
+    },
+    {
+      "countryAndCurrency": "Thailand Baht",
+      "currencyCode": "THB",
+      "fontCode2000": "฿",
+      "fontArialUnicodeMs": "฿"
+    },
+    {
+      "countryAndCurrency": "Trinidad and Tobago Dollar",
+      "currencyCode": "TTD",
+      "fontCode2000": "TT$",
+      "fontArialUnicodeMs": "TT$"
+    },
+    {
+      "countryAndCurrency": "Turkey Lira",
+      "currencyCode": "TRY"
+    },
+    {
+      "countryAndCurrency": "Tuvalu Dollar",
+      "currencyCode": "TVD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Ukraine Hryvnia",
+      "currencyCode": "UAH",
+      "fontCode2000": "₴",
+      "fontArialUnicodeMs": "₴"
+    },
+    {
+      "countryAndCurrency": "United Kingdom Pound",
+      "currencyCode": "GBP",
+      "fontCode2000": "£",
+      "fontArialUnicodeMs": "£"
+    },
+    {
+      "countryAndCurrency": "United States Dollar",
+      "currencyCode": "USD",
+      "fontCode2000": "$",
+      "fontArialUnicodeMs": "$"
+    },
+    {
+      "countryAndCurrency": "Uruguay Peso",
+      "currencyCode": "UYU",
+      "fontCode2000": "$U",
+      "fontArialUnicodeMs": "$U"
+    },
+    {
+      "countryAndCurrency": "Uzbekistan Som",
+      "currencyCode": "UZS",
+      "fontCode2000": "лв",
+      "fontArialUnicodeMs": "лв"
+    },
+    {
+      "countryAndCurrency": "Venezuela Bolívar",
+      "currencyCode": "VEF",
+      "fontCode2000": "Bs",
+      "fontArialUnicodeMs": "Bs"
+    },
+    {
+      "countryAndCurrency": "Viet Nam Dong",
+      "currencyCode": "VND",
+      "fontCode2000": "₫",
+      "fontArialUnicodeMs": "₫"
+    },
+    {
+      "countryAndCurrency": "Yemen Rial",
+      "currencyCode": "YER",
+      "fontCode2000": "﷼",
+      "fontArialUnicodeMs": "﷼"
+    },
+    {
+      "countryAndCurrency": "Zimbabwe Dollar",
+      "currencyCode": "ZWD",
+      "fontCode2000": "Z$",
+      "fontArialUnicodeMs": "Z$"
+    }
+  ],
+  "dialingCodes": [
+    {
+      "country": "Afghanistan",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 93
+    },
+    {
+      "country": "Albania",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 355
+    },
+    {
+      "country": "Algeria",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 213
+    },
+    {
+      "country": "American Samoa",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 684
+    },
+    {
+      "country": "Andorra",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 376
+    },
+    {
+      "country": "Angola",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 244
+    },
+    {
+      "country": "Anguilla",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 264
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 268
+    },
+    {
+      "country": "Argentina",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 54
+    },
+    {
+      "country": "Armenia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 374
+    },
+    {
+      "country": "Aruba",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 297
+    },
+    {
+      "country": "Australia",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 61
+    },
+    {
+      "country": "Austria",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 43
+    },
+    {
+      "country": "Azerbaijan",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 994
+    },
+    {
+      "country": "Bahamas",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 242
+    },
+    {
+      "country": "Bahrain",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 973
+    },
+    {
+      "country": "Bangladesh",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 880
+    },
+    {
+      "country": "Barbados",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 246
+    },
+    {
+      "country": "Belarus",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 375
+    },
+    {
+      "country": "Belgium",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 32
+    },
+    {
+      "country": "Belize",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 501
+    },
+    {
+      "country": "Benin",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 229
+    },
+    {
+      "country": "Bermuda",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 441
+    },
+    {
+      "country": "Bhutan",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 975
+    },
+    {
+      "country": "Bolivia",
+      "internationalDialingPrefix": 10,
+      "countryCallingCode": 591
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 387
+    },
+    {
+      "country": "Botswana",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 267
+    },
+    {
+      "country": "Brazil",
+      "internationalDialingPrefix": 14,
+      "countryCallingCode": 55
+    },
+    {
+      "country": "Brunei Darussalam",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 673
+    },
+    {
+      "country": "Bulgaria",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 359
+    },
+    {
+      "country": "Burkina Faso",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 226
+    },
+    {
+      "country": "Burundi",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 257
+    },
+    {
+      "country": "Cambodia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 855
+    },
+    {
+      "country": "Cameroon",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 237
+    },
+    {
+      "country": "Canada",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1
+    },
+    {
+      "country": "Cape Verde",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 238
+    },
+    {
+      "country": "Cayman Islands",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 345
+    },
+    {
+      "country": "Central African Republic",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 236
+    },
+    {
+      "country": "Chad",
+      "internationalDialingPrefix": 15,
+      "countryCallingCode": 235
+    },
+    {
+      "country": "Chile",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 56
+    },
+    {
+      "country": "China",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 86
+    },
+    {
+      "country": "Christmas Island",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 61,
+      "nationalCode": 8
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 61,
+      "nationalCode": 8
+    },
+    {
+      "country": "Colombia",
+      "internationalDialingPrefix": 5,
+      "countryCallingCode": 57
+    },
+    {
+      "country": "Comoros",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 269
+    },
+    {
+      "country": "Congo (Brazzaville)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 242
+    },
+    {
+      "country": "Congo (Kinshasa)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 243
+    },
+    {
+      "country": "Cook Islands",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 682
+    },
+    {
+      "country": "Costa Rica",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 506
+    },
+    {
+      "country": "Côte D'Ivoire (Ivory Coast)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 225
+    },
+    {
+      "country": "Croatia (Hrvatska)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 385
+    },
+    {
+      "country": "Cuba",
+      "internationalDialingPrefix": 119,
+      "countryCallingCode": 53
+    },
+    {
+      "country": "Cyprus",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 357
+    },
+    {
+      "country": "Czech Republic",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 420
+    },
+    {
+      "country": "Denmark",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 45
+    },
+    {
+      "country": "Djibouti",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 253
+    },
+    {
+      "country": "Dominica",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 767
+    },
+    {
+      "country": "Dominican Republic",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": "809, 829, 849"
+    },
+    {
+      "country": "Ecuador",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 593
+    },
+    {
+      "country": "Egypt",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 20
+    },
+    {
+      "country": "El Salvador",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 503
+    },
+    {
+      "country": "Equatorial Guinea",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 240
+    },
+    {
+      "country": "Eritrea",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 291
+    },
+    {
+      "country": "Estonia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 372
+    },
+    {
+      "country": "Ethiopia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 251
+    },
+    {
+      "country": "Falkland Islands (Malvinas)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 500
+    },
+    {
+      "country": "Faroe Islands",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 298
+    },
+    {
+      "country": "Fiji",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 679
+    },
+    {
+      "country": "Finland",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 358
+    },
+    {
+      "country": "France",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 33
+    },
+    {
+      "country": "French Guiana",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 594
+    },
+    {
+      "country": "French Polynesia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 689
+    },
+    {
+      "country": "Gabon",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 241
+    },
+    {
+      "country": "Gambia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 220
+    },
+    {
+      "country": "Georgia",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 995
+    },
+    {
+      "country": "Germany",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 49
+    },
+    {
+      "country": "Ghana",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 233
+    },
+    {
+      "country": "Gibraltar",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 350
+    },
+    {
+      "country": "Greece",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 30
+    },
+    {
+      "country": "Greenland",
+      "internationalDialingPrefix": 9,
+      "countryCallingCode": 299
+    },
+    {
+      "country": "Grenada",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 473
+    },
+    {
+      "country": "Guadeloupe",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 590
+    },
+    {
+      "country": "Guam",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 671
+    },
+    {
+      "country": "Guatemala",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 502
+    },
+    {
+      "country": "Guinea",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 224
+    },
+    {
+      "country": "Guinea-Bissau",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 245
+    },
+    {
+      "country": "Guyana",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 592
+    },
+    {
+      "country": "Haiti",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 509
+    },
+    {
+      "country": "Holy See (Vatican City State)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 379
+    },
+    {
+      "country": "Honduras",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 504
+    },
+    {
+      "country": "Hong Kong, SAR",
+      "internationalDialingPrefix": 1,
+      "countryCallingCode": 852
+    },
+    {
+      "country": "Hungary",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 36
+    },
+    {
+      "country": "Iceland",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 354
+    },
+    {
+      "country": "India",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 91
+    },
+    {
+      "country": "Indonesia",
+      "internationalDialingPrefix": 1,
+      "countryCallingCode": 62
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 98
+    },
+    {
+      "country": "Iraq",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 964
+    },
+    {
+      "country": "Ireland",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 353
+    },
+    {
+      "country": "Israel",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 972
+    },
+    {
+      "country": "Italy",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 39
+    },
+    {
+      "country": "Jamaica",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 876
+    },
+    {
+      "country": "Japan",
+      "internationalDialingPrefix": 10,
+      "countryCallingCode": 81
+    },
+    {
+      "country": "Jordan",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 962
+    },
+    {
+      "country": "Kazakhstan",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 7,
+      "nationalCode": "6, or 7"
+    },
+    {
+      "country": "Kenya",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 254
+    },
+    {
+      "country": "Kiribati",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 686
+    },
+    {
+      "country": "Korea, Democratic People's Republic of (North)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 850
+    },
+    {
+      "country": "Korea, Republic of (South)",
+      "internationalDialingPrefix": 1,
+      "countryCallingCode": 82
+    },
+    {
+      "country": "Kuwait",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 965
+    },
+    {
+      "country": "Kyrgyzstan",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 996
+    },
+    {
+      "country": "Laos (Lao PDR)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 856
+    },
+    {
+      "country": "Latvia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 371
+    },
+    {
+      "country": "Lebanon",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 961
+    },
+    {
+      "country": "Lesotho",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 266
+    },
+    {
+      "country": "Liberia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 231
+    },
+    {
+      "country": "Libya",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 218
+    },
+    {
+      "country": "Liechtenstein",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 423
+    },
+    {
+      "country": "Lithuania",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 370
+    },
+    {
+      "country": "Luxembourg",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 352
+    },
+    {
+      "country": "Macao (SAR China)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 853
+    },
+    {
+      "country": "Macedonia, Republic of",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 389
+    },
+    {
+      "country": "Madagascar",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 261
+    },
+    {
+      "country": "Malawi",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 265
+    },
+    {
+      "country": "Malaysia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 60
+    },
+    {
+      "country": "Maldives",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 960
+    },
+    {
+      "country": "Mali",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 223
+    },
+    {
+      "country": "Malta",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 356
+    },
+    {
+      "country": "Marshall Islands",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 692
+    },
+    {
+      "country": "Martinique",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 596
+    },
+    {
+      "country": "Mauritania",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 222
+    },
+    {
+      "country": "Mauritius",
+      "internationalDialingPrefix": 20,
+      "countryCallingCode": 230
+    },
+    {
+      "country": "Mayotte",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 262
+    },
+    {
+      "country": "Mexico",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 52
+    },
+    {
+      "country": "Micronesia, Federated States of",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 691
+    },
+    {
+      "country": "Moldova",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 373
+    },
+    {
+      "country": "Monaco",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 377
+    },
+    {
+      "country": "Mongolia",
+      "internationalDialingPrefix": 1,
+      "countryCallingCode": 976
+    },
+    {
+      "country": "Montenegro",
+      "internationalDialingPrefix": 99,
+      "countryCallingCode": 382
+    },
+    {
+      "country": "Montserrat",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 664
+    },
+    {
+      "country": "Morocco and Western Sahara",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 212
+    },
+    {
+      "country": "Mozambique",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 258
+    },
+    {
+      "country": "Myanmar",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 95
+    },
+    {
+      "country": "Namibia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 264
+    },
+    {
+      "country": "Nauru",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 674
+    },
+    {
+      "country": "Nepal",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 977
+    },
+    {
+      "country": "Netherlands",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 31
+    },
+    {
+      "country": "Netherlands Antilles",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 599
+    },
+    {
+      "country": "New Caledonia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 687
+    },
+    {
+      "country": "New Zealand",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 64
+    },
+    {
+      "country": "Nicaragua",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 505
+    },
+    {
+      "country": "Niger",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 227
+    },
+    {
+      "country": "Nigeria",
+      "internationalDialingPrefix": 9,
+      "countryCallingCode": 234
+    },
+    {
+      "country": "Niue",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 683
+    },
+    {
+      "country": "Norfolk Island",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 672
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 670
+    },
+    {
+      "country": "Norway",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 47
+    },
+    {
+      "country": "Oman",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 968
+    },
+    {
+      "country": "Pakistan",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 92
+    },
+    {
+      "country": "Palau",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 680
+    },
+    {
+      "country": "Palestinian Territory, Occupied",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 970
+    },
+    {
+      "country": "Panama",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 507
+    },
+    {
+      "country": "Papua New Guinea",
+      "internationalDialingPrefix": 5,
+      "countryCallingCode": 675
+    },
+    {
+      "country": "Paraguay",
+      "internationalDialingPrefix": 2,
+      "countryCallingCode": 595
+    },
+    {
+      "country": "Peru",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 51
+    },
+    {
+      "country": "Philippines",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 63
+    },
+    {
+      "country": "Pitcairn",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 870
+    },
+    {
+      "country": "Poland",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 48
+    },
+    {
+      "country": "Portugal",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 351
+    },
+    {
+      "country": "Puerto Rico",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": "787, or 939"
+    },
+    {
+      "country": "Qatar",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 974
+    },
+    {
+      "country": "Réunion and Mayotte",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 262
+    },
+    {
+      "country": "Romania",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 40
+    },
+    {
+      "country": "Russian Federation",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 7
+    },
+    {
+      "country": "Rwanda",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 250
+    },
+    {
+      "country": "Saint Helena and also Tristan Da Cunha",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 290
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 869
+    },
+    {
+      "country": "Saint Lucia",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 758
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 508
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 784
+    },
+    {
+      "country": "Samoa",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 685
+    },
+    {
+      "country": "San Marino",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 378
+    },
+    {
+      "country": "São Tomé and Principe",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 239
+    },
+    {
+      "country": "Saudi Arabia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 966
+    },
+    {
+      "country": "Senegal",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 221
+    },
+    {
+      "country": "Serbia",
+      "internationalDialingPrefix": 99,
+      "countryCallingCode": 381
+    },
+    {
+      "country": "Seychelles",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 248
+    },
+    {
+      "country": "Sierra Leone",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 232
+    },
+    {
+      "country": "Singapore",
+      "internationalDialingPrefix": 1,
+      "countryCallingCode": 65
+    },
+    {
+      "country": "Slovakia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 421
+    },
+    {
+      "country": "Slovenia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 386
+    },
+    {
+      "country": "Solomon Islands",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 677
+    },
+    {
+      "country": "Somalia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 252
+    },
+    {
+      "country": "South Africa",
+      "internationalDialingPrefix": 9,
+      "countryCallingCode": 27
+    },
+    {
+      "country": "Spain",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 34
+    },
+    {
+      "country": "Sri Lanka",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 94
+    },
+    {
+      "country": "Sudan",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 249
+    },
+    {
+      "country": "Suriname",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 597
+    },
+    {
+      "country": "Svalbard and Jan Mayen Islands",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 47
+    },
+    {
+      "country": "Swaziland",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 268
+    },
+    {
+      "country": "Sweden",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 46
+    },
+    {
+      "country": "Switzerland",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 41
+    },
+    {
+      "country": "Syrian Arab Republic (Syria)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 963
+    },
+    {
+      "country": "Taiwan, Republic of China",
+      "internationalDialingPrefix": 2,
+      "countryCallingCode": 886
+    },
+    {
+      "country": "Tajikistan",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 992
+    },
+    {
+      "country": "Tanzania, United Republic of",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 255
+    },
+    {
+      "country": "Thailand",
+      "internationalDialingPrefix": 1,
+      "countryCallingCode": 66
+    },
+    {
+      "country": "Timor-Leste",
+      "internationalDialingPrefix": "None",
+      "countryCallingCode": 670
+    },
+    {
+      "country": "Togo",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 228
+    },
+    {
+      "country": "Tokelau",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 690
+    },
+    {
+      "country": "Tonga",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 676
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 868
+    },
+    {
+      "country": "Tunisia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 216
+    },
+    {
+      "country": "Turkey",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 90
+    },
+    {
+      "country": "Turkmenistan",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 993
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 649
+    },
+    {
+      "country": "Tuvalu",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 688
+    },
+    {
+      "country": "Uganda",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 256
+    },
+    {
+      "country": "Ukraine",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 380
+    },
+    {
+      "country": "United Arab Emirates",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 971
+    },
+    {
+      "country": "United Kingdom",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 44
+    },
+    {
+      "country": "United States of America",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1
+    },
+    {
+      "country": "Uruguay",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 598
+    },
+    {
+      "country": "Uzbekistan",
+      "internationalDialingPrefix": 810,
+      "countryCallingCode": 998
+    },
+    {
+      "country": "Vanuatu",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 678
+    },
+    {
+      "country": "Venezuela (Bolivarian Republic of)",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 58
+    },
+    {
+      "country": "Viet Nam",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 84
+    },
+    {
+      "country": "Virgin Islands, British",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 284
+    },
+    {
+      "country": "Virgin Islands, US",
+      "internationalDialingPrefix": 11,
+      "countryCallingCode": 1,
+      "nationalCode": 340
+    },
+    {
+      "country": "Wallis and Futuna Islands",
+      "internationalDialingPrefix": 19,
+      "countryCallingCode": 681
+    },
+    {
+      "country": "Yemen",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 967
+    },
+    {
+      "country": "Zambia",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 260
+    },
+    {
+      "country": "Zimbabwe",
+      "internationalDialingPrefix": 0,
+      "countryCallingCode": 263
+    }
+  ],
+  "crypto": [
+    {
+      "commissioned": 2009,
+      "status": "Active",
+      "currency": "Bitcoin",
+      "code": "BTC",
+      "alternateCode": "XBT",
+      "symbol": "₿",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2011,
+      "status": "Active",
+      "currency": "Litecoin",
+      "code": "LTC",
+      "symbol": "Ł",
+      "hashAlgorithm": "Scrypt",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2011,
+      "status": "Active",
+      "currency": "Namecoin",
+      "code": "NMC",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2011,
+      "status": "Active",
+      "currency": "SwiftCoin",
+      "code": "STC",
+      "hashAlgorithm": "SHA-256",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2012,
+      "status": "Active",
+      "currency": "Bytecoin",
+      "code": "BCN",
+      "hashAlgorithm": "CryptoNote",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2012,
+      "status": "Active",
+      "currency": "Peercoin",
+      "code": "PPC",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoW & PoS"
+    },
+    {
+      "commissioned": 2013,
+      "status": "Active",
+      "currency": "Dogecoin",
+      "code": "DOGE",
+      "alternateCode": "XDG",
+      "symbol": "Ð",
+      "hashAlgorithm": "Scrypt",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2013,
+      "status": "Active",
+      "currency": "Feathercoin",
+      "code": "FTC",
+      "symbol": "₣",
+      "hashAlgorithm": "NeoScrypt"
+    },
+    {
+      "commissioned": 2013,
+      "status": "Active",
+      "currency": "Gridcoin",
+      "code": "GRC",
+      "hashAlgorithm": "Scrypt",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2013,
+      "status": "Active",
+      "currency": "Primecoin",
+      "code": "XPM",
+      "hashAlgorithm": "1CC/2CC/TWN",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2013,
+      "status": "Active",
+      "currency": "Ripple",
+      "code": "XRP",
+      "hashAlgorithm": "ECDSA"
+    },
+    {
+      "commissioned": 2013,
+      "status": "Active",
+      "currency": "Nxt",
+      "code": "NXT",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Auroracoin",
+      "code": "AUR",
+      "hashAlgorithm": "Scrypt",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Inactive",
+      "currency": "Coinye",
+      "code": "KOI",
+      "alternateCode": "COYE",
+      "hashAlgorithm": "Scrypt",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Dash",
+      "code": "DASH",
+      "hashAlgorithm": "X11",
+      "cryptocurrencyBlockchain": "PoW & PoS"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "NEO",
+      "code": "NEO",
+      "hashAlgorithm": "SHA-256 & RIPEMD160",
+      "cryptocurrencyBlockchain": "dBFT"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "MazaCoin",
+      "code": "MZC",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Monero",
+      "code": "XMR",
+      "hashAlgorithm": "CryptoNight",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "NEM",
+      "code": "XEM",
+      "hashAlgorithm": "SHA3-512",
+      "cryptocurrencyBlockchain": "POI"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "PotCoin",
+      "code": "POT",
+      "hashAlgorithm": "Scrypt",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Synereo AMP",
+      "code": "AMP",
+      "hashAlgorithm": "PoS",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Titcoin",
+      "code": "TIT",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Verge",
+      "code": "XVG",
+      "hashAlgorithm": "Scrypt, x17, groestl, blake2s, and lyra2rev2",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Stellar",
+      "code": "XLM",
+      "hashAlgorithm": "Stellar Consensus Protocol (SCP)",
+      "cryptocurrencyBlockchain": "SCP"
+    },
+    {
+      "commissioned": 2014,
+      "status": "Active",
+      "currency": "Vertcoin",
+      "code": "VTC",
+      "hashAlgorithm": "Lyra2RE",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2015,
+      "status": "Active",
+      "currency": "Ether or \"Ethereum\"",
+      "code": "ETH",
+      "hashAlgorithm": "Ethash",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2015,
+      "status": "Active",
+      "currency": "Ethereum Classic",
+      "code": "ETC",
+      "hashAlgorithm": "Ethash",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2015,
+      "status": "Active",
+      "currency": "Tether",
+      "code": "USDT",
+      "hashAlgorithm": "Omnicore",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2016,
+      "status": "Active",
+      "currency": "Decred",
+      "code": "DCR",
+      "hashAlgorithm": "Blake-256",
+      "cryptocurrencyBlockchain": "PoW & PoS"
+    },
+    {
+      "commissioned": 2016,
+      "status": "Active",
+      "currency": "Waves platform",
+      "code": "WAVES",
+      "hashAlgorithm": "PoS",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2016,
+      "status": "Active",
+      "currency": "Zcash",
+      "code": "ZEC",
+      "hashAlgorithm": "Equihash",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2017,
+      "status": "Active",
+      "currency": "BitConnect",
+      "code": "BCC"
+    },
+    {
+      "commissioned": 2017,
+      "status": "Active",
+      "currency": "Bitcoin Cash",
+      "code": "BCH",
+      "hashAlgorithm": "SHA-256d",
+      "cryptocurrencyBlockchain": "PoW"
+    },
+    {
+      "commissioned": 2017,
+      "status": "Active",
+      "currency": "EOS.IO",
+      "code": "EOS",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2018,
+      "status": "Active",
+      "currency": "Cardano",
+      "code": "ADA",
+      "cryptocurrencyBlockchain": "PoS"
+    },
+    {
+      "commissioned": 2018,
+      "status": "Inactive",
+      "currency": "KodakCoin",
+      "hashAlgorithm": "Ethash"
+    },
+    {
+      "commissioned": 2018,
+      "status": "Active",
+      "currency": "Petro",
+      "hashAlgorithm": "onixCoin"
+    },
+    {
+      "commissioned": 2018,
+      "status": "Active",
+      "currency": "Bitcoin Private",
+      "code": "BTCP",
+      "hashAlgorithm": "Equihash",
+      "cryptocurrencyBlockchain": "PoW"
+    }
+  ],
+  "language": [
+    {
+      "languageName": "Abkhazian",
+      "nativeName": "аҧсуа бызшәа, аҧсшәа",
+      "alpha2Code": "ab",
+      "alpha2TCode": "abk",
+      "alpha2BCode": "abk",
+      "alpha3Code": "abk"
+    },
+    {
+      "languageName": "Afar",
+      "nativeName": "Afaraf",
+      "alpha2Code": "aa",
+      "alpha2TCode": "aar",
+      "alpha2BCode": "aar",
+      "alpha3Code": "aar"
+    },
+    {
+      "languageName": "Afrikaans",
+      "nativeName": "Afrikaans",
+      "alpha2Code": "af",
+      "alpha2TCode": "afr",
+      "alpha2BCode": "afr",
+      "alpha3Code": "afr"
+    },
+    {
+      "languageName": "Akan",
+      "nativeName": "Akan",
+      "alpha2Code": "ak",
+      "alpha2TCode": "aka",
+      "alpha2BCode": "aka",
+      "alpha3Code": "aka"
+    },
+    {
+      "languageName": "Albanian",
+      "nativeName": "Shqip",
+      "alpha2Code": "sq",
+      "alpha2TCode": "sqi",
+      "alpha2BCode": "alb",
+      "alpha3Code": "sqi"
+    },
+    {
+      "languageName": "Amharic",
+      "nativeName": "አማርኛ",
+      "alpha2Code": "am",
+      "alpha2TCode": "amh",
+      "alpha2BCode": "amh",
+      "alpha3Code": "amh"
+    },
+    {
+      "languageName": "Arabic",
+      "nativeName": "العربية",
+      "alpha2Code": "ar",
+      "alpha2TCode": "ara",
+      "alpha2BCode": "ara",
+      "alpha3Code": "ara"
+    },
+    {
+      "languageName": "Aragonese",
+      "nativeName": "aragonés",
+      "alpha2Code": "an",
+      "alpha2TCode": "arg",
+      "alpha2BCode": "arg",
+      "alpha3Code": "arg"
+    },
+    {
+      "languageName": "Armenian",
+      "nativeName": "Հայերեն",
+      "alpha2Code": "hy",
+      "alpha2TCode": "hye",
+      "alpha2BCode": "arm",
+      "alpha3Code": "hye"
+    },
+    {
+      "languageName": "Assamese",
+      "nativeName": "অসমীয়া",
+      "alpha2Code": "as",
+      "alpha2TCode": "asm",
+      "alpha2BCode": "asm",
+      "alpha3Code": "asm"
+    },
+    {
+      "languageName": "Avaric",
+      "nativeName": "авар мацӀ, магӀарул мацӀ",
+      "alpha2Code": "av",
+      "alpha2TCode": "ava",
+      "alpha2BCode": "ava",
+      "alpha3Code": "ava"
+    },
+    {
+      "languageName": "Avestan",
+      "nativeName": "avesta",
+      "alpha2Code": "ae",
+      "alpha2TCode": "ave",
+      "alpha2BCode": "ave",
+      "alpha3Code": "ave"
+    },
+    {
+      "languageName": "Aymara",
+      "nativeName": "aymar aru",
+      "alpha2Code": "ay",
+      "alpha2TCode": "aym",
+      "alpha2BCode": "aym",
+      "alpha3Code": "aym"
+    },
+    {
+      "languageName": "Azerbaijani",
+      "nativeName": "azərbaycan dili",
+      "alpha2Code": "az",
+      "alpha2TCode": "aze",
+      "alpha2BCode": "aze",
+      "alpha3Code": "aze"
+    },
+    {
+      "languageName": "Bambara",
+      "nativeName": "bamanankan",
+      "alpha2Code": "bm",
+      "alpha2TCode": "bam",
+      "alpha2BCode": "bam",
+      "alpha3Code": "bam"
+    },
+    {
+      "languageName": "Bashkir",
+      "nativeName": "башҡорт теле",
+      "alpha2Code": "ba",
+      "alpha2TCode": "bak",
+      "alpha2BCode": "bak",
+      "alpha3Code": "bak"
+    },
+    {
+      "languageName": "Basque",
+      "nativeName": "euskara, euskera",
+      "alpha2Code": "eu",
+      "alpha2TCode": "eus",
+      "alpha2BCode": "baq",
+      "alpha3Code": "eus"
+    },
+    {
+      "languageName": "Belarusian",
+      "nativeName": "беларуская мова",
+      "alpha2Code": "be",
+      "alpha2TCode": "bel",
+      "alpha2BCode": "bel",
+      "alpha3Code": "bel"
+    },
+    {
+      "languageName": "Bengali",
+      "nativeName": "বাংলা",
+      "alpha2Code": "bn",
+      "alpha2TCode": "ben",
+      "alpha2BCode": "ben",
+      "alpha3Code": "ben"
+    },
+    {
+      "languageName": "Bihari languages",
+      "nativeName": "भोजपुरी",
+      "alpha2Code": "bh",
+      "alpha2TCode": "bih",
+      "alpha2BCode": "bih"
+    },
+    {
+      "languageName": "Bislama",
+      "nativeName": "Bislama",
+      "alpha2Code": "bi",
+      "alpha2TCode": "bis",
+      "alpha2BCode": "bis",
+      "alpha3Code": "bis"
+    },
+    {
+      "languageName": "Bosnian",
+      "nativeName": "bosanski jezik",
+      "alpha2Code": "bs",
+      "alpha2TCode": "bos",
+      "alpha2BCode": "bos",
+      "alpha3Code": "bos"
+    },
+    {
+      "languageName": "Breton",
+      "nativeName": "brezhoneg",
+      "alpha2Code": "br",
+      "alpha2TCode": "bre",
+      "alpha2BCode": "bre",
+      "alpha3Code": "bre"
+    },
+    {
+      "languageName": "Bulgarian",
+      "nativeName": "български език",
+      "alpha2Code": "bg",
+      "alpha2TCode": "bul",
+      "alpha2BCode": "bul",
+      "alpha3Code": "bul"
+    },
+    {
+      "languageName": "Burmese",
+      "nativeName": "ဗမာစာ",
+      "alpha2Code": "my",
+      "alpha2TCode": "mya",
+      "alpha2BCode": "bur",
+      "alpha3Code": "mya"
+    },
+    {
+      "languageName": "Catalan, Valencian",
+      "nativeName": "català, valencià",
+      "alpha2Code": "ca",
+      "alpha2TCode": "cat",
+      "alpha2BCode": "cat",
+      "alpha3Code": "cat"
+    },
+    {
+      "languageName": "Chamorro",
+      "nativeName": "Chamoru",
+      "alpha2Code": "ch",
+      "alpha2TCode": "cha",
+      "alpha2BCode": "cha",
+      "alpha3Code": "cha"
+    },
+    {
+      "languageName": "Chechen",
+      "nativeName": "нохчийн мотт",
+      "alpha2Code": "ce",
+      "alpha2TCode": "che",
+      "alpha2BCode": "che",
+      "alpha3Code": "che"
+    },
+    {
+      "languageName": "Chichewa, Chewa, Nyanja",
+      "nativeName": "chiCheŵa, chinyanja",
+      "alpha2Code": "ny",
+      "alpha2TCode": "nya",
+      "alpha2BCode": "nya",
+      "alpha3Code": "nya"
+    },
+    {
+      "languageName": "Chinese",
+      "nativeName": "中文 (Zhōngwén), 汉语, 漢語",
+      "alpha2Code": "zh",
+      "alpha2TCode": "zho",
+      "alpha2BCode": "chi",
+      "alpha3Code": "zho"
+    },
+    {
+      "languageName": "Chuvash",
+      "nativeName": "чӑваш чӗлхи",
+      "alpha2Code": "cv",
+      "alpha2TCode": "chv",
+      "alpha2BCode": "chv",
+      "alpha3Code": "chv"
+    },
+    {
+      "languageName": "Cornish",
+      "nativeName": "Kernewek",
+      "alpha2Code": "kw",
+      "alpha2TCode": "cor",
+      "alpha2BCode": "cor",
+      "alpha3Code": "cor"
+    },
+    {
+      "languageName": "Corsican",
+      "nativeName": "corsu, lingua corsa",
+      "alpha2Code": "co",
+      "alpha2TCode": "cos",
+      "alpha2BCode": "cos",
+      "alpha3Code": "cos"
+    },
+    {
+      "languageName": "Cree",
+      "nativeName": "ᓀᐦᐃᔭᐍᐏᐣ",
+      "alpha2Code": "cr",
+      "alpha2TCode": "cre",
+      "alpha2BCode": "cre",
+      "alpha3Code": "cre"
+    },
+    {
+      "languageName": "Croatian",
+      "nativeName": "hrvatski jezik",
+      "alpha2Code": "hr",
+      "alpha2TCode": "hrv",
+      "alpha2BCode": "hrv",
+      "alpha3Code": "hrv"
+    },
+    {
+      "languageName": "Czech",
+      "nativeName": "čeština, český jazyk",
+      "alpha2Code": "cs",
+      "alpha2TCode": "ces",
+      "alpha2BCode": "cze",
+      "alpha3Code": "ces"
+    },
+    {
+      "languageName": "Danish",
+      "nativeName": "dansk",
+      "alpha2Code": "da",
+      "alpha2TCode": "dan",
+      "alpha2BCode": "dan",
+      "alpha3Code": "dan"
+    },
+    {
+      "languageName": "Divehi, Dhivehi, Maldivian",
+      "nativeName": "ދިވެހި",
+      "alpha2Code": "dv",
+      "alpha2TCode": "div",
+      "alpha2BCode": "div",
+      "alpha3Code": "div"
+    },
+    {
+      "languageName": "Dutch, Flemish",
+      "nativeName": "Nederlands, Vlaams",
+      "alpha2Code": "nl",
+      "alpha2TCode": "nld",
+      "alpha2BCode": "dut",
+      "alpha3Code": "nld"
+    },
+    {
+      "languageName": "Dzongkha",
+      "nativeName": "རྫོང་ཁ",
+      "alpha2Code": "dz",
+      "alpha2TCode": "dzo",
+      "alpha2BCode": "dzo",
+      "alpha3Code": "dzo"
+    },
+    {
+      "languageName": "English",
+      "nativeName": "English",
+      "alpha2Code": "en",
+      "alpha2TCode": "eng",
+      "alpha2BCode": "eng",
+      "alpha3Code": "eng"
+    },
+    {
+      "languageName": "Esperanto",
+      "nativeName": "Esperanto",
+      "alpha2Code": "eo",
+      "alpha2TCode": "epo",
+      "alpha2BCode": "epo",
+      "alpha3Code": "epo"
+    },
+    {
+      "languageName": "Estonian",
+      "nativeName": "eesti, eesti keel",
+      "alpha2Code": "et",
+      "alpha2TCode": "est",
+      "alpha2BCode": "est",
+      "alpha3Code": "est"
+    },
+    {
+      "languageName": "Ewe",
+      "nativeName": "Eʋegbe",
+      "alpha2Code": "ee",
+      "alpha2TCode": "ewe",
+      "alpha2BCode": "ewe",
+      "alpha3Code": "ewe"
+    },
+    {
+      "languageName": "Faroese",
+      "nativeName": "føroyskt",
+      "alpha2Code": "fo",
+      "alpha2TCode": "fao",
+      "alpha2BCode": "fao",
+      "alpha3Code": "fao"
+    },
+    {
+      "languageName": "Fijian",
+      "nativeName": "vosa Vakaviti",
+      "alpha2Code": "fj",
+      "alpha2TCode": "fij",
+      "alpha2BCode": "fij",
+      "alpha3Code": "fij"
+    },
+    {
+      "languageName": "Filipino",
+      "nativeName": "Pilipino",
+      "alpha2Code": "fl",
+      "alpha2TCode": "fil",
+      "alpha2BCode": "fil",
+      "alpha3Code": "fil"
+    },
+    {
+      "languageName": "Finnish",
+      "nativeName": "suomi, suomen kieli",
+      "alpha2Code": "fi",
+      "alpha2TCode": "fin",
+      "alpha2BCode": "fin",
+      "alpha3Code": "fin"
+    },
+    {
+      "languageName": "French",
+      "nativeName": "français, langue française",
+      "alpha2Code": "fr",
+      "alpha2TCode": "fra",
+      "alpha2BCode": "fre",
+      "alpha3Code": "fra"
+    },
+    {
+      "languageName": "Fulah",
+      "nativeName": "Fulfulde, Pulaar, Pular",
+      "alpha2Code": "ff",
+      "alpha2TCode": "ful",
+      "alpha2BCode": "ful",
+      "alpha3Code": "ful"
+    },
+    {
+      "languageName": "Galician",
+      "nativeName": "Galego",
+      "alpha2Code": "gl",
+      "alpha2TCode": "glg",
+      "alpha2BCode": "glg",
+      "alpha3Code": "glg"
+    },
+    {
+      "languageName": "Georgian",
+      "nativeName": "ქართული",
+      "alpha2Code": "ka",
+      "alpha2TCode": "kat",
+      "alpha2BCode": "geo",
+      "alpha3Code": "kat"
+    },
+    {
+      "languageName": "German",
+      "nativeName": "Deutsch",
+      "alpha2Code": "de",
+      "alpha2TCode": "deu",
+      "alpha2BCode": "ger",
+      "alpha3Code": "deu"
+    },
+    {
+      "languageName": "Greek (modern)",
+      "nativeName": "ελληνικά",
+      "alpha2Code": "el",
+      "alpha2TCode": "ell",
+      "alpha2BCode": "gre",
+      "alpha3Code": "ell"
+    },
+    {
+      "languageName": "Guaraní",
+      "nativeName": "Avañe'ẽ",
+      "alpha2Code": "gn",
+      "alpha2TCode": "grn",
+      "alpha2BCode": "grn",
+      "alpha3Code": "grn"
+    },
+    {
+      "languageName": "Gujarati",
+      "nativeName": "ગુજરાતી",
+      "alpha2Code": "gu",
+      "alpha2TCode": "guj",
+      "alpha2BCode": "guj",
+      "alpha3Code": "guj"
+    },
+    {
+      "languageName": "Haitian, Haitian Creole",
+      "nativeName": "Kreyòl ayisyen",
+      "alpha2Code": "ht",
+      "alpha2TCode": "hat",
+      "alpha2BCode": "hat",
+      "alpha3Code": "hat"
+    },
+    {
+      "languageName": "Hausa",
+      "nativeName": "(Hausa) هَوُسَ",
+      "alpha2Code": "ha",
+      "alpha2TCode": "hau",
+      "alpha2BCode": "hau",
+      "alpha3Code": "hau"
+    },
+    {
+      "languageName": "Hebrew (modern)",
+      "nativeName": "עברית",
+      "alpha2Code": "he",
+      "alpha2TCode": "heb",
+      "alpha2BCode": "heb",
+      "alpha3Code": "heb"
+    },
+    {
+      "languageName": "Herero",
+      "nativeName": "Otjiherero",
+      "alpha2Code": "hz",
+      "alpha2TCode": "her",
+      "alpha2BCode": "her",
+      "alpha3Code": "her"
+    },
+    {
+      "languageName": "Hindi",
+      "nativeName": "हिन्दी, हिंदी",
+      "alpha2Code": "hi",
+      "alpha2TCode": "hin",
+      "alpha2BCode": "hin",
+      "alpha3Code": "hin"
+    },
+    {
+      "languageName": "Hiri Motu",
+      "nativeName": "Hiri Motu",
+      "alpha2Code": "ho",
+      "alpha2TCode": "hmo",
+      "alpha2BCode": "hmo",
+      "alpha3Code": "hmo"
+    },
+    {
+      "languageName": "Hungarian",
+      "nativeName": "magyar",
+      "alpha2Code": "hu",
+      "alpha2TCode": "hun",
+      "alpha2BCode": "hun",
+      "alpha3Code": "hun"
+    },
+    {
+      "languageName": "Interlingua",
+      "nativeName": "Interlingua",
+      "alpha2Code": "ia",
+      "alpha2TCode": "ina",
+      "alpha2BCode": "ina",
+      "alpha3Code": "ina"
+    },
+    {
+      "languageName": "Indonesian",
+      "nativeName": "Bahasa Indonesia",
+      "alpha2Code": "id",
+      "alpha2TCode": "ind",
+      "alpha2BCode": "ind",
+      "alpha3Code": "ind"
+    },
+    {
+      "languageName": "Interlingue",
+      "nativeName": "Originally called Occidental; then Interlingue after WWII",
+      "alpha2Code": "ie",
+      "alpha2TCode": "ile",
+      "alpha2BCode": "ile",
+      "alpha3Code": "ile"
+    },
+    {
+      "languageName": "Irish",
+      "nativeName": "Gaeilge",
+      "alpha2Code": "ga",
+      "alpha2TCode": "gle",
+      "alpha2BCode": "gle",
+      "alpha3Code": "gle"
+    },
+    {
+      "languageName": "Igbo",
+      "nativeName": "Asụsụ Igbo",
+      "alpha2Code": "ig",
+      "alpha2TCode": "ibo",
+      "alpha2BCode": "ibo",
+      "alpha3Code": "ibo"
+    },
+    {
+      "languageName": "Inupiaq",
+      "nativeName": "Iñupiaq, Iñupiatun",
+      "alpha2Code": "ik",
+      "alpha2TCode": "ipk",
+      "alpha2BCode": "ipk",
+      "alpha3Code": "ipk"
+    },
+    {
+      "languageName": "Ido",
+      "nativeName": "Ido",
+      "alpha2Code": "io",
+      "alpha2TCode": "ido",
+      "alpha2BCode": "ido",
+      "alpha3Code": "ido"
+    },
+    {
+      "languageName": "Icelandic",
+      "nativeName": "Íslenska",
+      "alpha2Code": "is",
+      "alpha2TCode": "isl",
+      "alpha2BCode": "ice",
+      "alpha3Code": "isl"
+    },
+    {
+      "languageName": "Italian",
+      "nativeName": "Italiano",
+      "alpha2Code": "it",
+      "alpha2TCode": "ita",
+      "alpha2BCode": "ita",
+      "alpha3Code": "ita"
+    },
+    {
+      "languageName": "Inuktitut",
+      "nativeName": "ᐃᓄᒃᑎᑐᑦ",
+      "alpha2Code": "iu",
+      "alpha2TCode": "iku",
+      "alpha2BCode": "iku",
+      "alpha3Code": "iku"
+    },
+    {
+      "languageName": "Japanese",
+      "nativeName": "日本語 (にほんご)",
+      "alpha2Code": "ja",
+      "alpha2TCode": "jpn",
+      "alpha2BCode": "jpn",
+      "alpha3Code": "jpn"
+    },
+    {
+      "languageName": "Javanese",
+      "nativeName": "ꦧꦱꦗꦮ, Basa Jawa",
+      "alpha2Code": "jv",
+      "alpha2TCode": "jav",
+      "alpha2BCode": "jav",
+      "alpha3Code": "jav"
+    },
+    {
+      "languageName": "Kalaallisut, Greenlandic",
+      "nativeName": "kalaallisut, kalaallit oqaasii",
+      "alpha2Code": "kl",
+      "alpha2TCode": "kal",
+      "alpha2BCode": "kal",
+      "alpha3Code": "kal"
+    },
+    {
+      "languageName": "Kannada",
+      "nativeName": "ಕನ್ನಡ",
+      "alpha2Code": "kn",
+      "alpha2TCode": "kan",
+      "alpha2BCode": "kan",
+      "alpha3Code": "kan"
+    },
+    {
+      "languageName": "Kanuri",
+      "nativeName": "Kanuri",
+      "alpha2Code": "kr",
+      "alpha2TCode": "kau",
+      "alpha2BCode": "kau",
+      "alpha3Code": "kau"
+    },
+    {
+      "languageName": "Kashmiri",
+      "nativeName": "कश्मीरी, كشميري‎",
+      "alpha2Code": "ks",
+      "alpha2TCode": "kas",
+      "alpha2BCode": "kas",
+      "alpha3Code": "kas"
+    },
+    {
+      "languageName": "Kazakh",
+      "nativeName": "қазақ тілі",
+      "alpha2Code": "kk",
+      "alpha2TCode": "kaz",
+      "alpha2BCode": "kaz",
+      "alpha3Code": "kaz"
+    },
+    {
+      "languageName": "Central Khmer",
+      "nativeName": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
+      "alpha2Code": "km",
+      "alpha2TCode": "khm",
+      "alpha2BCode": "khm",
+      "alpha3Code": "khm"
+    },
+    {
+      "languageName": "Kikuyu, Gikuyu",
+      "nativeName": "Gĩkũyũ",
+      "alpha2Code": "ki",
+      "alpha2TCode": "kik",
+      "alpha2BCode": "kik",
+      "alpha3Code": "kik"
+    },
+    {
+      "languageName": "Kinyarwanda",
+      "nativeName": "Ikinyarwanda",
+      "alpha2Code": "rw",
+      "alpha2TCode": "kin",
+      "alpha2BCode": "kin",
+      "alpha3Code": "kin"
+    },
+    {
+      "languageName": "Kirghiz, Kyrgyz",
+      "nativeName": "Кыргызча, Кыргыз тили",
+      "alpha2Code": "ky",
+      "alpha2TCode": "kir",
+      "alpha2BCode": "kir",
+      "alpha3Code": "kir"
+    },
+    {
+      "languageName": "Komi",
+      "nativeName": "коми кыв",
+      "alpha2Code": "kv",
+      "alpha2TCode": "kom",
+      "alpha2BCode": "kom",
+      "alpha3Code": "kom"
+    },
+    {
+      "languageName": "Kongo",
+      "nativeName": "Kikongo",
+      "alpha2Code": "kg",
+      "alpha2TCode": "kon",
+      "alpha2BCode": "kon",
+      "alpha3Code": "kon"
+    },
+    {
+      "languageName": "Korean",
+      "nativeName": "한국어",
+      "alpha2Code": "ko",
+      "alpha2TCode": "kor",
+      "alpha2BCode": "kor",
+      "alpha3Code": "kor"
+    },
+    {
+      "languageName": "Kurdish",
+      "nativeName": "Kurdî, کوردی‎",
+      "alpha2Code": "ku",
+      "alpha2TCode": "kur",
+      "alpha2BCode": "kur",
+      "alpha3Code": "kur"
+    },
+    {
+      "languageName": "Kuanyama, Kwanyama",
+      "nativeName": "Kuanyama",
+      "alpha2Code": "kj",
+      "alpha2TCode": "kua",
+      "alpha2BCode": "kua",
+      "alpha3Code": "kua"
+    },
+    {
+      "languageName": "Latin",
+      "nativeName": "latine, lingua latina",
+      "alpha2Code": "la",
+      "alpha2TCode": "lat",
+      "alpha2BCode": "lat",
+      "alpha3Code": "lat"
+    },
+    {
+      "languageName": "Luxembourgish, Letzeburgesch",
+      "nativeName": "Lëtzebuergesch",
+      "alpha2Code": "lb",
+      "alpha2TCode": "ltz",
+      "alpha2BCode": "ltz",
+      "alpha3Code": "ltz"
+    },
+    {
+      "languageName": "Ganda",
+      "nativeName": "Luganda",
+      "alpha2Code": "lg",
+      "alpha2TCode": "lug",
+      "alpha2BCode": "lug",
+      "alpha3Code": "lug"
+    },
+    {
+      "languageName": "Limburgan, Limburger, Limburgish",
+      "nativeName": "Limburgs",
+      "alpha2Code": "li",
+      "alpha2TCode": "lim",
+      "alpha2BCode": "lim",
+      "alpha3Code": "lim"
+    },
+    {
+      "languageName": "Lingala",
+      "nativeName": "Lingála",
+      "alpha2Code": "ln",
+      "alpha2TCode": "lin",
+      "alpha2BCode": "lin",
+      "alpha3Code": "lin"
+    },
+    {
+      "languageName": "Lao",
+      "nativeName": "ພາສາລາວ",
+      "alpha2Code": "lo",
+      "alpha2TCode": "lao",
+      "alpha2BCode": "lao",
+      "alpha3Code": "lao"
+    },
+    {
+      "languageName": "Lithuanian",
+      "nativeName": "lietuvių kalba",
+      "alpha2Code": "lt",
+      "alpha2TCode": "lit",
+      "alpha2BCode": "lit",
+      "alpha3Code": "lit"
+    },
+    {
+      "languageName": "Luba-Katanga",
+      "nativeName": "Kiluba",
+      "alpha2Code": "lu",
+      "alpha2TCode": "lub",
+      "alpha2BCode": "lub",
+      "alpha3Code": "lub"
+    },
+    {
+      "languageName": "Latvian",
+      "nativeName": "latviešu valoda",
+      "alpha2Code": "lv",
+      "alpha2TCode": "lav",
+      "alpha2BCode": "lav",
+      "alpha3Code": "lav"
+    },
+    {
+      "languageName": "Manx",
+      "nativeName": "Gaelg, Gailck",
+      "alpha2Code": "gv",
+      "alpha2TCode": "glv",
+      "alpha2BCode": "glv",
+      "alpha3Code": "glv"
+    },
+    {
+      "languageName": "Macedonian",
+      "nativeName": "македонски јазик",
+      "alpha2Code": "mk",
+      "alpha2TCode": "mkd",
+      "alpha2BCode": "mac",
+      "alpha3Code": "mkd"
+    },
+    {
+      "languageName": "Malagasy",
+      "nativeName": "fiteny malagasy",
+      "alpha2Code": "mg",
+      "alpha2TCode": "mlg",
+      "alpha2BCode": "mlg",
+      "alpha3Code": "mlg"
+    },
+    {
+      "languageName": "Malay",
+      "nativeName": "Bahasa Melayu, بهاس ملايو‎",
+      "alpha2Code": "ms",
+      "alpha2TCode": "msa",
+      "alpha2BCode": "may",
+      "alpha3Code": "msa"
+    },
+    {
+      "languageName": "Malayalam",
+      "nativeName": "മലയാളം",
+      "alpha2Code": "ml",
+      "alpha2TCode": "mal",
+      "alpha2BCode": "mal",
+      "alpha3Code": "mal"
+    },
+    {
+      "languageName": "Maltese",
+      "nativeName": "Malti",
+      "alpha2Code": "mt",
+      "alpha2TCode": "mlt",
+      "alpha2BCode": "mlt",
+      "alpha3Code": "mlt"
+    },
+    {
+      "languageName": "Maori",
+      "nativeName": "te reo Māori",
+      "alpha2Code": "mi",
+      "alpha2TCode": "mri",
+      "alpha2BCode": "mao",
+      "alpha3Code": "mri"
+    },
+    {
+      "languageName": "Marathi",
+      "nativeName": "मराठी",
+      "alpha2Code": "mr",
+      "alpha2TCode": "mar",
+      "alpha2BCode": "mar",
+      "alpha3Code": "mar"
+    },
+    {
+      "languageName": "Marshallese",
+      "nativeName": "Kajin M̧ajeļ",
+      "alpha2Code": "mh",
+      "alpha2TCode": "mah",
+      "alpha2BCode": "mah",
+      "alpha3Code": "mah"
+    },
+    {
+      "languageName": "Mongolian",
+      "nativeName": "Монгол хэл",
+      "alpha2Code": "mn",
+      "alpha2TCode": "mon",
+      "alpha2BCode": "mon",
+      "alpha3Code": "mon"
+    },
+    {
+      "languageName": "Nauru",
+      "nativeName": "Dorerin Naoero",
+      "alpha2Code": "na",
+      "alpha2TCode": "nau",
+      "alpha2BCode": "nau",
+      "alpha3Code": "nau"
+    },
+    {
+      "languageName": "Navajo, Navaho",
+      "nativeName": "Diné bizaad",
+      "alpha2Code": "nv",
+      "alpha2TCode": "nav",
+      "alpha2BCode": "nav",
+      "alpha3Code": "nav"
+    },
+    {
+      "languageName": "North Ndebele",
+      "nativeName": "isiNdebele",
+      "alpha2Code": "nd",
+      "alpha2TCode": "nde",
+      "alpha2BCode": "nde",
+      "alpha3Code": "nde"
+    },
+    {
+      "languageName": "Nepali",
+      "nativeName": "नेपाली",
+      "alpha2Code": "ne",
+      "alpha2TCode": "nep",
+      "alpha2BCode": "nep",
+      "alpha3Code": "nep"
+    },
+    {
+      "languageName": "Ndonga",
+      "nativeName": "Owambo",
+      "alpha2Code": "ng",
+      "alpha2TCode": "ndo",
+      "alpha2BCode": "ndo",
+      "alpha3Code": "ndo"
+    },
+    {
+      "languageName": "Norwegian Bokmål",
+      "nativeName": "Norsk Bokmål",
+      "alpha2Code": "nb",
+      "alpha2TCode": "nob",
+      "alpha2BCode": "nob",
+      "alpha3Code": "nob"
+    },
+    {
+      "languageName": "Norwegian Nynorsk",
+      "nativeName": "Norsk Nynorsk",
+      "alpha2Code": "nn",
+      "alpha2TCode": "nno",
+      "alpha2BCode": "nno",
+      "alpha3Code": "nno"
+    },
+    {
+      "languageName": "Norwegian",
+      "nativeName": "Norsk",
+      "alpha2Code": "no",
+      "alpha2TCode": "nor",
+      "alpha2BCode": "nor",
+      "alpha3Code": "nor"
+    },
+    {
+      "languageName": "Sichuan Yi, Nuosu",
+      "nativeName": "ꆈꌠ꒿ Nuosuhxop",
+      "alpha2Code": "ii",
+      "alpha2TCode": "iii",
+      "alpha2BCode": "iii",
+      "alpha3Code": "iii"
+    },
+    {
+      "languageName": "South Ndebele",
+      "nativeName": "isiNdebele",
+      "alpha2Code": "nr",
+      "alpha2TCode": "nbl",
+      "alpha2BCode": "nbl",
+      "alpha3Code": "nbl"
+    },
+    {
+      "languageName": "Occitan",
+      "nativeName": "occitan, lenga d'òc",
+      "alpha2Code": "oc",
+      "alpha2TCode": "oci",
+      "alpha2BCode": "oci",
+      "alpha3Code": "oci"
+    },
+    {
+      "languageName": "Ojibwa",
+      "nativeName": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
+      "alpha2Code": "oj",
+      "alpha2TCode": "oji",
+      "alpha2BCode": "oji",
+      "alpha3Code": "oji"
+    },
+    {
+      "languageName": "Church Slavic, Church Slavonic, Old Church Slavonic, Old Slavonic, Old Bulgarian",
+      "nativeName": "ѩзыкъ словѣньскъ",
+      "alpha2Code": "cu",
+      "alpha2TCode": "chu",
+      "alpha2BCode": "chu",
+      "alpha3Code": "chu"
+    },
+    {
+      "languageName": "Oromo",
+      "nativeName": "Afaan Oromoo",
+      "alpha2Code": "om",
+      "alpha2TCode": "orm",
+      "alpha2BCode": "orm",
+      "alpha3Code": "orm"
+    },
+    {
+      "languageName": "Oriya",
+      "nativeName": "ଓଡ଼ିଆ",
+      "alpha2Code": "or",
+      "alpha2TCode": "ori",
+      "alpha2BCode": "ori",
+      "alpha3Code": "ori"
+    },
+    {
+      "languageName": "Ossetian, Ossetic",
+      "nativeName": "ирон æвзаг",
+      "alpha2Code": "os",
+      "alpha2TCode": "oss",
+      "alpha2BCode": "oss",
+      "alpha3Code": "oss"
+    },
+    {
+      "languageName": "Panjabi, Punjabi",
+      "nativeName": "ਪੰਜਾਬੀ",
+      "alpha2Code": "pa",
+      "alpha2TCode": "pan",
+      "alpha2BCode": "pan",
+      "alpha3Code": "pan"
+    },
+    {
+      "languageName": "Pali",
+      "nativeName": "पाऴि",
+      "alpha2Code": "pi",
+      "alpha2TCode": "pli",
+      "alpha2BCode": "pli",
+      "alpha3Code": "pli"
+    },
+    {
+      "languageName": "Persian",
+      "nativeName": "فارسی",
+      "alpha2Code": "fa",
+      "alpha2TCode": "fas",
+      "alpha2BCode": "per",
+      "alpha3Code": "fas"
+    },
+    {
+      "languageName": "Polish",
+      "nativeName": "język polski, polszczyzna",
+      "alpha2Code": "pl",
+      "alpha2TCode": "pol",
+      "alpha2BCode": "pol",
+      "alpha3Code": "pol"
+    },
+    {
+      "languageName": "Pashto, Pushto",
+      "nativeName": "پښتو",
+      "alpha2Code": "ps",
+      "alpha2TCode": "pus",
+      "alpha2BCode": "pus",
+      "alpha3Code": "pus"
+    },
+    {
+      "languageName": "Portuguese",
+      "nativeName": "Português",
+      "alpha2Code": "pt",
+      "alpha2TCode": "por",
+      "alpha2BCode": "por",
+      "alpha3Code": "por"
+    },
+    {
+      "languageName": "Quechua",
+      "nativeName": "Runa Simi, Kichwa",
+      "alpha2Code": "qu",
+      "alpha2TCode": "que",
+      "alpha2BCode": "que",
+      "alpha3Code": "que"
+    },
+    {
+      "languageName": "Romansh",
+      "nativeName": "Rumantsch Grischun",
+      "alpha2Code": "rm",
+      "alpha2TCode": "roh",
+      "alpha2BCode": "roh",
+      "alpha3Code": "roh"
+    },
+    {
+      "languageName": "Rundi",
+      "nativeName": "Ikirundi",
+      "alpha2Code": "rn",
+      "alpha2TCode": "run",
+      "alpha2BCode": "run",
+      "alpha3Code": "run"
+    },
+    {
+      "languageName": "Romanian, Moldavian, Moldovan",
+      "nativeName": "Română",
+      "alpha2Code": "ro",
+      "alpha2TCode": "ron",
+      "alpha2BCode": "rum",
+      "alpha3Code": "ron"
+    },
+    {
+      "languageName": "Russian",
+      "nativeName": "русский",
+      "alpha2Code": "ru",
+      "alpha2TCode": "rus",
+      "alpha2BCode": "rus",
+      "alpha3Code": "rus"
+    },
+    {
+      "languageName": "Sanskrit",
+      "nativeName": "संस्कृतम्",
+      "alpha2Code": "sa",
+      "alpha2TCode": "san",
+      "alpha2BCode": "san",
+      "alpha3Code": "san"
+    },
+    {
+      "languageName": "Sardinian",
+      "nativeName": "sardu",
+      "alpha2Code": "sc",
+      "alpha2TCode": "srd",
+      "alpha2BCode": "srd",
+      "alpha3Code": "srd"
+    },
+    {
+      "languageName": "Sindhi",
+      "nativeName": "सिन्धी, سنڌي، سندھی‎",
+      "alpha2Code": "sd",
+      "alpha2TCode": "snd",
+      "alpha2BCode": "snd",
+      "alpha3Code": "snd"
+    },
+    {
+      "languageName": "Northern Sami",
+      "nativeName": "Davvisámegiella",
+      "alpha2Code": "se",
+      "alpha2TCode": "sme",
+      "alpha2BCode": "sme",
+      "alpha3Code": "sme"
+    },
+    {
+      "languageName": "Samoan",
+      "nativeName": "gagana fa'a Samoa",
+      "alpha2Code": "sm",
+      "alpha2TCode": "smo",
+      "alpha2BCode": "smo",
+      "alpha3Code": "smo"
+    },
+    {
+      "languageName": "Sango",
+      "nativeName": "yângâ tî sängö",
+      "alpha2Code": "sg",
+      "alpha2TCode": "sag",
+      "alpha2BCode": "sag",
+      "alpha3Code": "sag"
+    },
+    {
+      "languageName": "Serbian",
+      "nativeName": "српски језик",
+      "alpha2Code": "sr",
+      "alpha2TCode": "srp",
+      "alpha2BCode": "srp",
+      "alpha3Code": "srp"
+    },
+    {
+      "languageName": "Gaelic, Scottish Gaelic",
+      "nativeName": "Gàidhlig",
+      "alpha2Code": "gd",
+      "alpha2TCode": "gla",
+      "alpha2BCode": "gla",
+      "alpha3Code": "gla"
+    },
+    {
+      "languageName": "Shona",
+      "nativeName": "chiShona",
+      "alpha2Code": "sn",
+      "alpha2TCode": "sna",
+      "alpha2BCode": "sna",
+      "alpha3Code": "sna"
+    },
+    {
+      "languageName": "Sinhala, Sinhalese",
+      "nativeName": "සිංහල",
+      "alpha2Code": "si",
+      "alpha2TCode": "sin",
+      "alpha2BCode": "sin",
+      "alpha3Code": "sin"
+    },
+    {
+      "languageName": "Slovak",
+      "nativeName": "Slovenčina, Slovenský Jazyk",
+      "alpha2Code": "sk",
+      "alpha2TCode": "slk",
+      "alpha2BCode": "slo",
+      "alpha3Code": "slk"
+    },
+    {
+      "languageName": "Slovenian",
+      "nativeName": "Slovenski Jezik, Slovenščina",
+      "alpha2Code": "sl",
+      "alpha2TCode": "slv",
+      "alpha2BCode": "slv",
+      "alpha3Code": "slv"
+    },
+    {
+      "languageName": "Somali",
+      "nativeName": "Soomaaliga, af Soomaali",
+      "alpha2Code": "so",
+      "alpha2TCode": "som",
+      "alpha2BCode": "som",
+      "alpha3Code": "som"
+    },
+    {
+      "languageName": "Southern Sotho",
+      "nativeName": "Sesotho",
+      "alpha2Code": "st",
+      "alpha2TCode": "sot",
+      "alpha2BCode": "sot",
+      "alpha3Code": "sot"
+    },
+    {
+      "languageName": "Spanish, Castilian",
+      "nativeName": "Español",
+      "alpha2Code": "es",
+      "alpha2TCode": "spa",
+      "alpha2BCode": "spa",
+      "alpha3Code": "spa"
+    },
+    {
+      "languageName": "Sundanese",
+      "nativeName": "Basa Sunda",
+      "alpha2Code": "su",
+      "alpha2TCode": "sun",
+      "alpha2BCode": "sun",
+      "alpha3Code": "sun"
+    },
+    {
+      "languageName": "Swahili",
+      "nativeName": "Kiswahili",
+      "alpha2Code": "sw",
+      "alpha2TCode": "swa",
+      "alpha2BCode": "swa",
+      "alpha3Code": "swa"
+    },
+    {
+      "languageName": "Swati",
+      "nativeName": "SiSwati",
+      "alpha2Code": "ss",
+      "alpha2TCode": "ssw",
+      "alpha2BCode": "ssw",
+      "alpha3Code": "ssw"
+    },
+    {
+      "languageName": "Swedish",
+      "nativeName": "Svenska",
+      "alpha2Code": "sv",
+      "alpha2TCode": "swe",
+      "alpha2BCode": "swe",
+      "alpha3Code": "swe"
+    },
+    {
+      "languageName": "Tamil",
+      "nativeName": "தமிழ்",
+      "alpha2Code": "ta",
+      "alpha2TCode": "tam",
+      "alpha2BCode": "tam",
+      "alpha3Code": "tam"
+    },
+    {
+      "languageName": "Telugu",
+      "nativeName": "తెలుగు",
+      "alpha2Code": "te",
+      "alpha2TCode": "tel",
+      "alpha2BCode": "tel",
+      "alpha3Code": "tel"
+    },
+    {
+      "languageName": "Tajik",
+      "nativeName": "тоҷикӣ, toçikī, تاجیکی‎",
+      "alpha2Code": "tg",
+      "alpha2TCode": "tgk",
+      "alpha2BCode": "tgk",
+      "alpha3Code": "tgk"
+    },
+    {
+      "languageName": "Thai",
+      "nativeName": "ไทย",
+      "alpha2Code": "th",
+      "alpha2TCode": "tha",
+      "alpha2BCode": "tha",
+      "alpha3Code": "tha"
+    },
+    {
+      "languageName": "Tigrinya",
+      "nativeName": "ትግርኛ",
+      "alpha2Code": "ti",
+      "alpha2TCode": "tir",
+      "alpha2BCode": "tir",
+      "alpha3Code": "tir"
+    },
+    {
+      "languageName": "Tibetan",
+      "nativeName": "བོད་ཡིག",
+      "alpha2Code": "bo",
+      "alpha2TCode": "bod",
+      "alpha2BCode": "tib",
+      "alpha3Code": "bod"
+    },
+    {
+      "languageName": "Turkmen",
+      "nativeName": "Türkmen, Түркмен",
+      "alpha2Code": "tk",
+      "alpha2TCode": "tuk",
+      "alpha2BCode": "tuk",
+      "alpha3Code": "tuk"
+    },
+    {
+      "languageName": "Tagalog",
+      "nativeName": "Wikang Tagalog",
+      "alpha2Code": "tl",
+      "alpha2TCode": "tgl",
+      "alpha2BCode": "tgl",
+      "alpha3Code": "tgl"
+    },
+    {
+      "languageName": "Tswana",
+      "nativeName": "Setswana",
+      "alpha2Code": "tn",
+      "alpha2TCode": "tsn",
+      "alpha2BCode": "tsn",
+      "alpha3Code": "tsn"
+    },
+    {
+      "languageName": "Tongan (Tonga Islands)",
+      "nativeName": "Faka Tonga",
+      "alpha2Code": "to",
+      "alpha2TCode": "ton",
+      "alpha2BCode": "ton",
+      "alpha3Code": "ton"
+    },
+    {
+      "languageName": "Turkish",
+      "nativeName": "Türkçe",
+      "alpha2Code": "tr",
+      "alpha2TCode": "tur",
+      "alpha2BCode": "tur",
+      "alpha3Code": "tur"
+    },
+    {
+      "languageName": "Tsonga",
+      "nativeName": "Xitsonga",
+      "alpha2Code": "ts",
+      "alpha2TCode": "tso",
+      "alpha2BCode": "tso",
+      "alpha3Code": "tso"
+    },
+    {
+      "languageName": "Tatar",
+      "nativeName": "татар теле, tatar tele",
+      "alpha2Code": "tt",
+      "alpha2TCode": "tat",
+      "alpha2BCode": "tat",
+      "alpha3Code": "tat"
+    },
+    {
+      "languageName": "Twi",
+      "nativeName": "Twi",
+      "alpha2Code": "tw",
+      "alpha2TCode": "twi",
+      "alpha2BCode": "twi",
+      "alpha3Code": "twi"
+    },
+    {
+      "languageName": "Tahitian",
+      "nativeName": "Reo Tahiti",
+      "alpha2Code": "ty",
+      "alpha2TCode": "tah",
+      "alpha2BCode": "tah",
+      "alpha3Code": "tah"
+    },
+    {
+      "languageName": "Uighur, Uyghur",
+      "nativeName": "ئۇيغۇرچە‎, Uyghurche",
+      "alpha2Code": "ug",
+      "alpha2TCode": "uig",
+      "alpha2BCode": "uig",
+      "alpha3Code": "uig"
+    },
+    {
+      "languageName": "Ukrainian",
+      "nativeName": "Українська",
+      "alpha2Code": "uk",
+      "alpha2TCode": "ukr",
+      "alpha2BCode": "ukr",
+      "alpha3Code": "ukr"
+    },
+    {
+      "languageName": "Urdu",
+      "nativeName": "اردو",
+      "alpha2Code": "ur",
+      "alpha2TCode": "urd",
+      "alpha2BCode": "urd",
+      "alpha3Code": "urd"
+    },
+    {
+      "languageName": "Uzbek",
+      "nativeName": "Oʻzbek, Ўзбек, أۇزبېك‎",
+      "alpha2Code": "uz",
+      "alpha2TCode": "uzb",
+      "alpha2BCode": "uzb",
+      "alpha3Code": "uzb"
+    },
+    {
+      "languageName": "Venda",
+      "nativeName": "Tshivenḓa",
+      "alpha2Code": "ve",
+      "alpha2TCode": "ven",
+      "alpha2BCode": "ven",
+      "alpha3Code": "ven"
+    },
+    {
+      "languageName": "Vietnamese",
+      "nativeName": "Tiếng Việt",
+      "alpha2Code": "vi",
+      "alpha2TCode": "vie",
+      "alpha2BCode": "vie",
+      "alpha3Code": "vie"
+    },
+    {
+      "languageName": "Volapük",
+      "nativeName": "Volapük",
+      "alpha2Code": "vo",
+      "alpha2TCode": "vol",
+      "alpha2BCode": "vol",
+      "alpha3Code": "vol"
+    },
+    {
+      "languageName": "Walloon",
+      "nativeName": "Walon",
+      "alpha2Code": "wa",
+      "alpha2TCode": "wln",
+      "alpha2BCode": "wln",
+      "alpha3Code": "wln"
+    },
+    {
+      "languageName": "Welsh",
+      "nativeName": "Cymraeg",
+      "alpha2Code": "cy",
+      "alpha2TCode": "cym",
+      "alpha2BCode": "wel",
+      "alpha3Code": "cym"
+    },
+    {
+      "languageName": "Wolof",
+      "nativeName": "Wollof",
+      "alpha2Code": "wo",
+      "alpha2TCode": "wol",
+      "alpha2BCode": "wol",
+      "alpha3Code": "wol"
+    },
+    {
+      "languageName": "Western Frisian",
+      "nativeName": "Frysk",
+      "alpha2Code": "fy",
+      "alpha2TCode": "fry",
+      "alpha2BCode": "fry",
+      "alpha3Code": "fry"
+    },
+    {
+      "languageName": "Xhosa",
+      "nativeName": "isiXhosa",
+      "alpha2Code": "xh",
+      "alpha2TCode": "xho",
+      "alpha2BCode": "xho",
+      "alpha3Code": "xho"
+    },
+    {
+      "languageName": "Yiddish",
+      "nativeName": "ייִדיש",
+      "alpha2Code": "yi",
+      "alpha2TCode": "yid",
+      "alpha2BCode": "yid",
+      "alpha3Code": "yid"
+    },
+    {
+      "languageName": "Yoruba",
+      "nativeName": "Yorùbá",
+      "alpha2Code": "yo",
+      "alpha2TCode": "yor",
+      "alpha2BCode": "yor",
+      "alpha3Code": "yor"
+    },
+    {
+      "languageName": "Zhuang, Chuang",
+      "nativeName": "Saɯ cueŋƅ, Saw cuengh",
+      "alpha2Code": "za",
+      "alpha2TCode": "zha",
+      "alpha2BCode": "zha",
+      "alpha3Code": "zha"
+    },
+    {
+      "languageName": "Zulu",
+      "nativeName": "isiZulu",
+      "alpha2Code": "zu",
+      "alpha2TCode": "zul",
+      "alpha2BCode": "zul",
+      "alpha3Code": "zul"
+    }
+  ],
+  "countries": [
+    {
+      "country": "Afghanistan",
+      "alpha2Code": "AF",
+      "alpha3Code": "AFG",
+      "numericCode": 4
+    },
+    {
+      "country": "Aland Islands",
+      "alpha2Code": "AX",
+      "alpha3Code": "ALA",
+      "numericCode": 248
+    },
+    {
+      "country": "Albania",
+      "alpha2Code": "AL",
+      "alpha3Code": "ALB",
+      "numericCode": 8
+    },
+    {
+      "country": "Algeria",
+      "alpha2Code": "DZ",
+      "alpha3Code": "DZA",
+      "numericCode": 12
+    },
+    {
+      "country": "American Samoa",
+      "alpha2Code": "AS",
+      "alpha3Code": "ASM",
+      "numericCode": 16
+    },
+    {
+      "country": "Andorra",
+      "alpha2Code": "AD",
+      "alpha3Code": "AND",
+      "numericCode": 20
+    },
+    {
+      "country": "Angola",
+      "alpha2Code": "AO",
+      "alpha3Code": "AGO",
+      "numericCode": 24
+    },
+    {
+      "country": "Anguilla",
+      "alpha2Code": "AI",
+      "alpha3Code": "AIA",
+      "numericCode": 660
+    },
+    {
+      "country": "Antarctica",
+      "alpha2Code": "AQ",
+      "alpha3Code": "ATA",
+      "numericCode": 10
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "alpha2Code": "AG",
+      "alpha3Code": "ATG",
+      "numericCode": 28
+    },
+    {
+      "country": "Argentina",
+      "alpha2Code": "AR",
+      "alpha3Code": "ARG",
+      "numericCode": 32
+    },
+    {
+      "country": "Armenia",
+      "alpha2Code": "AM",
+      "alpha3Code": "ARM",
+      "numericCode": 51
+    },
+    {
+      "country": "Aruba",
+      "alpha2Code": "AW",
+      "alpha3Code": "ABW",
+      "numericCode": 533
+    },
+    {
+      "country": "Australia",
+      "alpha2Code": "AU",
+      "alpha3Code": "AUS",
+      "numericCode": 36
+    },
+    {
+      "country": "Austria",
+      "alpha2Code": "AT",
+      "alpha3Code": "AUT",
+      "numericCode": 40
+    },
+    {
+      "country": "Azerbaijan",
+      "alpha2Code": "AZ",
+      "alpha3Code": "AZE",
+      "numericCode": 31
+    },
+    {
+      "country": "Bahamas",
+      "alpha2Code": "BS",
+      "alpha3Code": "BHS",
+      "numericCode": 44
+    },
+    {
+      "country": "Bahrain",
+      "alpha2Code": "BH",
+      "alpha3Code": "BHR",
+      "numericCode": 48
+    },
+    {
+      "country": "Bangladesh",
+      "alpha2Code": "BD",
+      "alpha3Code": "BGD",
+      "numericCode": 50
+    },
+    {
+      "country": "Barbados",
+      "alpha2Code": "BB",
+      "alpha3Code": "BRB",
+      "numericCode": 52
+    },
+    {
+      "country": "Belarus",
+      "alpha2Code": "BY",
+      "alpha3Code": "BLR",
+      "numericCode": 112
+    },
+    {
+      "country": "Belgium",
+      "alpha2Code": "BE",
+      "alpha3Code": "BEL",
+      "numericCode": 56
+    },
+    {
+      "country": "Belize",
+      "alpha2Code": "BZ",
+      "alpha3Code": "BLZ",
+      "numericCode": 84
+    },
+    {
+      "country": "Benin",
+      "alpha2Code": "BJ",
+      "alpha3Code": "BEN",
+      "numericCode": 204
+    },
+    {
+      "country": "Bermuda",
+      "alpha2Code": "BM",
+      "alpha3Code": "BMU",
+      "numericCode": 60
+    },
+    {
+      "country": "Bhutan",
+      "alpha2Code": "BT",
+      "alpha3Code": "BTN",
+      "numericCode": 64
+    },
+    {
+      "country": "Bolivia",
+      "alpha2Code": "BO",
+      "alpha3Code": "BOL",
+      "numericCode": 68
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "alpha2Code": "BA",
+      "alpha3Code": "BIH",
+      "numericCode": 70
+    },
+    {
+      "country": "Botswana",
+      "alpha2Code": "BW",
+      "alpha3Code": "BWA",
+      "numericCode": 72
+    },
+    {
+      "country": "Bouvet Island",
+      "alpha2Code": "BV",
+      "alpha3Code": "BVT",
+      "numericCode": 74
+    },
+    {
+      "country": "Brazil",
+      "alpha2Code": "BR",
+      "alpha3Code": "BRA",
+      "numericCode": 76
+    },
+    {
+      "country": "British Virgin Islands",
+      "alpha2Code": "VG",
+      "alpha3Code": "VGB",
+      "numericCode": 92
+    },
+    {
+      "country": "British Indian Ocean Territory",
+      "alpha2Code": "IO",
+      "alpha3Code": "IOT",
+      "numericCode": 86
+    },
+    {
+      "country": "Brunei Darussalam",
+      "alpha2Code": "BN",
+      "alpha3Code": "BRN",
+      "numericCode": 96
+    },
+    {
+      "country": "Bulgaria",
+      "alpha2Code": "BG",
+      "alpha3Code": "BGR",
+      "numericCode": 100
+    },
+    {
+      "country": "Burkina Faso",
+      "alpha2Code": "BF",
+      "alpha3Code": "BFA",
+      "numericCode": 854
+    },
+    {
+      "country": "Burundi",
+      "alpha2Code": "BI",
+      "alpha3Code": "BDI",
+      "numericCode": 108
+    },
+    {
+      "country": "Cambodia",
+      "alpha2Code": "KH",
+      "alpha3Code": "KHM",
+      "numericCode": 116
+    },
+    {
+      "country": "Cameroon",
+      "alpha2Code": "CM",
+      "alpha3Code": "CMR",
+      "numericCode": 120
+    },
+    {
+      "country": "Canada",
+      "alpha2Code": "CA",
+      "alpha3Code": "CAN",
+      "numericCode": 124
+    },
+    {
+      "country": "Cape Verde",
+      "alpha2Code": "CV",
+      "alpha3Code": "CPV",
+      "numericCode": 132
+    },
+    {
+      "country": "Cayman Islands",
+      "alpha2Code": "KY",
+      "alpha3Code": "CYM",
+      "numericCode": 136
+    },
+    {
+      "country": "Central African Republic",
+      "alpha2Code": "CF",
+      "alpha3Code": "CAF",
+      "numericCode": 140
+    },
+    {
+      "country": "Chad",
+      "alpha2Code": "TD",
+      "alpha3Code": "TCD",
+      "numericCode": 148
+    },
+    {
+      "country": "Chile",
+      "alpha2Code": "CL",
+      "alpha3Code": "CHL",
+      "numericCode": 152
+    },
+    {
+      "country": "China",
+      "alpha2Code": "CN",
+      "alpha3Code": "CHN",
+      "numericCode": 156
+    },
+    {
+      "country": "Hong Kong, SAR China",
+      "alpha2Code": "HK",
+      "alpha3Code": "HKG",
+      "numericCode": 344
+    },
+    {
+      "country": "Macao, SAR China",
+      "alpha2Code": "MO",
+      "alpha3Code": "MAC",
+      "numericCode": 446
+    },
+    {
+      "country": "Christmas Island",
+      "alpha2Code": "CX",
+      "alpha3Code": "CXR",
+      "numericCode": 162
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "alpha2Code": "CC",
+      "alpha3Code": "CCK",
+      "numericCode": 166
+    },
+    {
+      "country": "Colombia",
+      "alpha2Code": "CO",
+      "alpha3Code": "COL",
+      "numericCode": 170
+    },
+    {
+      "country": "Comoros",
+      "alpha2Code": "KM",
+      "alpha3Code": "COM",
+      "numericCode": 174
+    },
+    {
+      "country": "Congo (Brazzaville)",
+      "alpha2Code": "CG",
+      "alpha3Code": "COG",
+      "numericCode": 178
+    },
+    {
+      "country": "Congo, (Kinshasa)",
+      "alpha2Code": "CD",
+      "alpha3Code": "COD",
+      "numericCode": 180
+    },
+    {
+      "country": "Cook Islands",
+      "alpha2Code": "CK",
+      "alpha3Code": "COK",
+      "numericCode": 184
+    },
+    {
+      "country": "Costa Rica",
+      "alpha2Code": "CR",
+      "alpha3Code": "CRI",
+      "numericCode": 188
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "alpha2Code": "CI",
+      "alpha3Code": "CIV",
+      "numericCode": 384
+    },
+    {
+      "country": "Croatia",
+      "alpha2Code": "HR",
+      "alpha3Code": "HRV",
+      "numericCode": 191
+    },
+    {
+      "country": "Cuba",
+      "alpha2Code": "CU",
+      "alpha3Code": "CUB",
+      "numericCode": 192
+    },
+    {
+      "country": "Cyprus",
+      "alpha2Code": "CY",
+      "alpha3Code": "CYP",
+      "numericCode": 196
+    },
+    {
+      "country": "Czech Republic",
+      "alpha2Code": "CZ",
+      "alpha3Code": "CZE",
+      "numericCode": 203
+    },
+    {
+      "country": "Denmark",
+      "alpha2Code": "DK",
+      "alpha3Code": "DNK",
+      "numericCode": 208
+    },
+    {
+      "country": "Djibouti",
+      "alpha2Code": "DJ",
+      "alpha3Code": "DJI",
+      "numericCode": 262
+    },
+    {
+      "country": "Dominica",
+      "alpha2Code": "DM",
+      "alpha3Code": "DMA",
+      "numericCode": 212
+    },
+    {
+      "country": "Dominican Republic",
+      "alpha2Code": "DO",
+      "alpha3Code": "DOM",
+      "numericCode": 214
+    },
+    {
+      "country": "Ecuador",
+      "alpha2Code": "EC",
+      "alpha3Code": "ECU",
+      "numericCode": 218
+    },
+    {
+      "country": "Egypt",
+      "alpha2Code": "EG",
+      "alpha3Code": "EGY",
+      "numericCode": 818
+    },
+    {
+      "country": "El Salvador",
+      "alpha2Code": "SV",
+      "alpha3Code": "SLV",
+      "numericCode": 222
+    },
+    {
+      "country": "Equatorial Guinea",
+      "alpha2Code": "GQ",
+      "alpha3Code": "GNQ",
+      "numericCode": 226
+    },
+    {
+      "country": "Eritrea",
+      "alpha2Code": "ER",
+      "alpha3Code": "ERI",
+      "numericCode": 232
+    },
+    {
+      "country": "Estonia",
+      "alpha2Code": "EE",
+      "alpha3Code": "EST",
+      "numericCode": 233
+    },
+    {
+      "country": "Ethiopia",
+      "alpha2Code": "ET",
+      "alpha3Code": "ETH",
+      "numericCode": 231
+    },
+    {
+      "country": "Falkland Islands (Malvinas)",
+      "alpha2Code": "FK",
+      "alpha3Code": "FLK",
+      "numericCode": 238
+    },
+    {
+      "country": "Faroe Islands",
+      "alpha2Code": "FO",
+      "alpha3Code": "FRO",
+      "numericCode": 234
+    },
+    {
+      "country": "Fiji",
+      "alpha2Code": "FJ",
+      "alpha3Code": "FJI",
+      "numericCode": 242
+    },
+    {
+      "country": "Finland",
+      "alpha2Code": "FI",
+      "alpha3Code": "FIN",
+      "numericCode": 246
+    },
+    {
+      "country": "France",
+      "alpha2Code": "FR",
+      "alpha3Code": "FRA",
+      "numericCode": 250
+    },
+    {
+      "country": "French Guiana",
+      "alpha2Code": "GF",
+      "alpha3Code": "GUF",
+      "numericCode": 254
+    },
+    {
+      "country": "French Polynesia",
+      "alpha2Code": "PF",
+      "alpha3Code": "PYF",
+      "numericCode": 258
+    },
+    {
+      "country": "French Southern Territories",
+      "alpha2Code": "TF",
+      "alpha3Code": "ATF",
+      "numericCode": 260
+    },
+    {
+      "country": "Gabon",
+      "alpha2Code": "GA",
+      "alpha3Code": "GAB",
+      "numericCode": 266
+    },
+    {
+      "country": "Gambia",
+      "alpha2Code": "GM",
+      "alpha3Code": "GMB",
+      "numericCode": 270
+    },
+    {
+      "country": "Georgia",
+      "alpha2Code": "GE",
+      "alpha3Code": "GEO",
+      "numericCode": 268
+    },
+    {
+      "country": "Germany",
+      "alpha2Code": "DE",
+      "alpha3Code": "DEU",
+      "numericCode": 276
+    },
+    {
+      "country": "Ghana",
+      "alpha2Code": "GH",
+      "alpha3Code": "GHA",
+      "numericCode": 288
+    },
+    {
+      "country": "Gibraltar",
+      "alpha2Code": "GI",
+      "alpha3Code": "GIB",
+      "numericCode": 292
+    },
+    {
+      "country": "Greece",
+      "alpha2Code": "GR",
+      "alpha3Code": "GRC",
+      "numericCode": 300
+    },
+    {
+      "country": "Greenland",
+      "alpha2Code": "GL",
+      "alpha3Code": "GRL",
+      "numericCode": 304
+    },
+    {
+      "country": "Grenada",
+      "alpha2Code": "GD",
+      "alpha3Code": "GRD",
+      "numericCode": 308
+    },
+    {
+      "country": "Guadeloupe",
+      "alpha2Code": "GP",
+      "alpha3Code": "GLP",
+      "numericCode": 312
+    },
+    {
+      "country": "Guam",
+      "alpha2Code": "GU",
+      "alpha3Code": "GUM",
+      "numericCode": 316
+    },
+    {
+      "country": "Guatemala",
+      "alpha2Code": "GT",
+      "alpha3Code": "GTM",
+      "numericCode": 320
+    },
+    {
+      "country": "Guernsey",
+      "alpha2Code": "GG",
+      "alpha3Code": "GGY",
+      "numericCode": 831
+    },
+    {
+      "country": "Guinea",
+      "alpha2Code": "GN",
+      "alpha3Code": "GIN",
+      "numericCode": 324
+    },
+    {
+      "country": "Guinea-Bissau",
+      "alpha2Code": "GW",
+      "alpha3Code": "GNB",
+      "numericCode": 624
+    },
+    {
+      "country": "Guyana",
+      "alpha2Code": "GY",
+      "alpha3Code": "GUY",
+      "numericCode": 328
+    },
+    {
+      "country": "Haiti",
+      "alpha2Code": "HT",
+      "alpha3Code": "HTI",
+      "numericCode": 332
+    },
+    {
+      "country": "Heard and Mcdonald Islands",
+      "alpha2Code": "HM",
+      "alpha3Code": "HMD",
+      "numericCode": 334
+    },
+    {
+      "country": "Holy See (Vatican City State)",
+      "alpha2Code": "VA",
+      "alpha3Code": "VAT",
+      "numericCode": 336
+    },
+    {
+      "country": "Honduras",
+      "alpha2Code": "HN",
+      "alpha3Code": "HND",
+      "numericCode": 340
+    },
+    {
+      "country": "Hungary",
+      "alpha2Code": "HU",
+      "alpha3Code": "HUN",
+      "numericCode": 348
+    },
+    {
+      "country": "Iceland",
+      "alpha2Code": "IS",
+      "alpha3Code": "ISL",
+      "numericCode": 352
+    },
+    {
+      "country": "India",
+      "alpha2Code": "IN",
+      "alpha3Code": "IND",
+      "numericCode": 356
+    },
+    {
+      "country": "Indonesia",
+      "alpha2Code": "ID",
+      "alpha3Code": "IDN",
+      "numericCode": 360
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "alpha2Code": "IR",
+      "alpha3Code": "IRN",
+      "numericCode": 364
+    },
+    {
+      "country": "Iraq",
+      "alpha2Code": "IQ",
+      "alpha3Code": "IRQ",
+      "numericCode": 368
+    },
+    {
+      "country": "Ireland",
+      "alpha2Code": "IE",
+      "alpha3Code": "IRL",
+      "numericCode": 372
+    },
+    {
+      "country": "Isle of Man",
+      "alpha2Code": "IM",
+      "alpha3Code": "IMN",
+      "numericCode": 833
+    },
+    {
+      "country": "Israel",
+      "alpha2Code": "IL",
+      "alpha3Code": "ISR",
+      "numericCode": 376
+    },
+    {
+      "country": "Italy",
+      "alpha2Code": "IT",
+      "alpha3Code": "ITA",
+      "numericCode": 380
+    },
+    {
+      "country": "Jamaica",
+      "alpha2Code": "JM",
+      "alpha3Code": "JAM",
+      "numericCode": 388
+    },
+    {
+      "country": "Japan",
+      "alpha2Code": "JP",
+      "alpha3Code": "JPN",
+      "numericCode": 392
+    },
+    {
+      "country": "Jersey",
+      "alpha2Code": "JE",
+      "alpha3Code": "JEY",
+      "numericCode": 832
+    },
+    {
+      "country": "Jordan",
+      "alpha2Code": "JO",
+      "alpha3Code": "JOR",
+      "numericCode": 400
+    },
+    {
+      "country": "Kazakhstan",
+      "alpha2Code": "KZ",
+      "alpha3Code": "KAZ",
+      "numericCode": 398
+    },
+    {
+      "country": "Kenya",
+      "alpha2Code": "KE",
+      "alpha3Code": "KEN",
+      "numericCode": 404
+    },
+    {
+      "country": "Kiribati",
+      "alpha2Code": "KI",
+      "alpha3Code": "KIR",
+      "numericCode": 296
+    },
+    {
+      "country": "Korea (North)",
+      "alpha2Code": "KP",
+      "alpha3Code": "PRK",
+      "numericCode": 408
+    },
+    {
+      "country": "Korea (South)",
+      "alpha2Code": "KR",
+      "alpha3Code": "KOR",
+      "numericCode": 410
+    },
+    {
+      "country": "Kuwait",
+      "alpha2Code": "KW",
+      "alpha3Code": "KWT",
+      "numericCode": 414
+    },
+    {
+      "country": "Kyrgyzstan",
+      "alpha2Code": "KG",
+      "alpha3Code": "KGZ",
+      "numericCode": 417
+    },
+    {
+      "country": "Lao PDR",
+      "alpha2Code": "LA",
+      "alpha3Code": "LAO",
+      "numericCode": 418
+    },
+    {
+      "country": "Latvia",
+      "alpha2Code": "LV",
+      "alpha3Code": "LVA",
+      "numericCode": 428
+    },
+    {
+      "country": "Lebanon",
+      "alpha2Code": "LB",
+      "alpha3Code": "LBN",
+      "numericCode": 422
+    },
+    {
+      "country": "Lesotho",
+      "alpha2Code": "LS",
+      "alpha3Code": "LSO",
+      "numericCode": 426
+    },
+    {
+      "country": "Liberia",
+      "alpha2Code": "LR",
+      "alpha3Code": "LBR",
+      "numericCode": 430
+    },
+    {
+      "country": "Libya",
+      "alpha2Code": "LY",
+      "alpha3Code": "LBY",
+      "numericCode": 434
+    },
+    {
+      "country": "Liechtenstein",
+      "alpha2Code": "LI",
+      "alpha3Code": "LIE",
+      "numericCode": 438
+    },
+    {
+      "country": "Lithuania",
+      "alpha2Code": "LT",
+      "alpha3Code": "LTU",
+      "numericCode": 440
+    },
+    {
+      "country": "Luxembourg",
+      "alpha2Code": "LU",
+      "alpha3Code": "LUX",
+      "numericCode": 442
+    },
+    {
+      "country": "Macedonia, Republic of",
+      "alpha2Code": "MK",
+      "alpha3Code": "MKD",
+      "numericCode": 807
+    },
+    {
+      "country": "Madagascar",
+      "alpha2Code": "MG",
+      "alpha3Code": "MDG",
+      "numericCode": 450
+    },
+    {
+      "country": "Malawi",
+      "alpha2Code": "MW",
+      "alpha3Code": "MWI",
+      "numericCode": 454
+    },
+    {
+      "country": "Malaysia",
+      "alpha2Code": "MY",
+      "alpha3Code": "MYS",
+      "numericCode": 458
+    },
+    {
+      "country": "Maldives",
+      "alpha2Code": "MV",
+      "alpha3Code": "MDV",
+      "numericCode": 462
+    },
+    {
+      "country": "Mali",
+      "alpha2Code": "ML",
+      "alpha3Code": "MLI",
+      "numericCode": 466
+    },
+    {
+      "country": "Malta",
+      "alpha2Code": "MT",
+      "alpha3Code": "MLT",
+      "numericCode": 470
+    },
+    {
+      "country": "Marshall Islands",
+      "alpha2Code": "MH",
+      "alpha3Code": "MHL",
+      "numericCode": 584
+    },
+    {
+      "country": "Martinique",
+      "alpha2Code": "MQ",
+      "alpha3Code": "MTQ",
+      "numericCode": 474
+    },
+    {
+      "country": "Mauritania",
+      "alpha2Code": "MR",
+      "alpha3Code": "MRT",
+      "numericCode": 478
+    },
+    {
+      "country": "Mauritius",
+      "alpha2Code": "MU",
+      "alpha3Code": "MUS",
+      "numericCode": 480
+    },
+    {
+      "country": "Mayotte",
+      "alpha2Code": "YT",
+      "alpha3Code": "MYT",
+      "numericCode": 175
+    },
+    {
+      "country": "Mexico",
+      "alpha2Code": "MX",
+      "alpha3Code": "MEX",
+      "numericCode": 484
+    },
+    {
+      "country": "Micronesia, Federated States of",
+      "alpha2Code": "FM",
+      "alpha3Code": "FSM",
+      "numericCode": 583
+    },
+    {
+      "country": "Moldova",
+      "alpha2Code": "MD",
+      "alpha3Code": "MDA",
+      "numericCode": 498
+    },
+    {
+      "country": "Monaco",
+      "alpha2Code": "MC",
+      "alpha3Code": "MCO",
+      "numericCode": 492
+    },
+    {
+      "country": "Mongolia",
+      "alpha2Code": "MN",
+      "alpha3Code": "MNG",
+      "numericCode": 496
+    },
+    {
+      "country": "Montenegro",
+      "alpha2Code": "ME",
+      "alpha3Code": "MNE",
+      "numericCode": 499
+    },
+    {
+      "country": "Montserrat",
+      "alpha2Code": "MS",
+      "alpha3Code": "MSR",
+      "numericCode": 500
+    },
+    {
+      "country": "Morocco",
+      "alpha2Code": "MA",
+      "alpha3Code": "MAR",
+      "numericCode": 504
+    },
+    {
+      "country": "Mozambique",
+      "alpha2Code": "MZ",
+      "alpha3Code": "MOZ",
+      "numericCode": 508
+    },
+    {
+      "country": "Myanmar",
+      "alpha2Code": "MM",
+      "alpha3Code": "MMR",
+      "numericCode": 104
+    },
+    {
+      "country": "Namibia",
+      "alpha2Code": "NA",
+      "alpha3Code": "NAM",
+      "numericCode": 516
+    },
+    {
+      "country": "Nauru",
+      "alpha2Code": "NR",
+      "alpha3Code": "NRU",
+      "numericCode": 520
+    },
+    {
+      "country": "Nepal",
+      "alpha2Code": "NP",
+      "alpha3Code": "NPL",
+      "numericCode": 524
+    },
+    {
+      "country": "Netherlands",
+      "alpha2Code": "NL",
+      "alpha3Code": "NLD",
+      "numericCode": 528
+    },
+    {
+      "country": "Netherlands Antilles",
+      "alpha2Code": "AN",
+      "alpha3Code": "ANT",
+      "numericCode": 530
+    },
+    {
+      "country": "New Caledonia",
+      "alpha2Code": "NC",
+      "alpha3Code": "NCL",
+      "numericCode": 540
+    },
+    {
+      "country": "New Zealand",
+      "alpha2Code": "NZ",
+      "alpha3Code": "NZL",
+      "numericCode": 554
+    },
+    {
+      "country": "Nicaragua",
+      "alpha2Code": "NI",
+      "alpha3Code": "NIC",
+      "numericCode": 558
+    },
+    {
+      "country": "Niger",
+      "alpha2Code": "NE",
+      "alpha3Code": "NER",
+      "numericCode": 562
+    },
+    {
+      "country": "Nigeria",
+      "alpha2Code": "NG",
+      "alpha3Code": "NGA",
+      "numericCode": 566
+    },
+    {
+      "country": "Niue",
+      "alpha2Code": "NU",
+      "alpha3Code": "NIU",
+      "numericCode": 570
+    },
+    {
+      "country": "Norfolk Island",
+      "alpha2Code": "NF",
+      "alpha3Code": "NFK",
+      "numericCode": 574
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "alpha2Code": "MP",
+      "alpha3Code": "MNP",
+      "numericCode": 580
+    },
+    {
+      "country": "Norway",
+      "alpha2Code": "NO",
+      "alpha3Code": "NOR",
+      "numericCode": 578
+    },
+    {
+      "country": "Oman",
+      "alpha2Code": "OM",
+      "alpha3Code": "OMN",
+      "numericCode": 512
+    },
+    {
+      "country": "Pakistan",
+      "alpha2Code": "PK",
+      "alpha3Code": "PAK",
+      "numericCode": 586
+    },
+    {
+      "country": "Palau",
+      "alpha2Code": "PW",
+      "alpha3Code": "PLW",
+      "numericCode": 585
+    },
+    {
+      "country": "Palestinian Territory",
+      "alpha2Code": "PS",
+      "alpha3Code": "PSE",
+      "numericCode": 275
+    },
+    {
+      "country": "Panama",
+      "alpha2Code": "PA",
+      "alpha3Code": "PAN",
+      "numericCode": 591
+    },
+    {
+      "country": "Papua New Guinea",
+      "alpha2Code": "PG",
+      "alpha3Code": "PNG",
+      "numericCode": 598
+    },
+    {
+      "country": "Paraguay",
+      "alpha2Code": "PY",
+      "alpha3Code": "PRY",
+      "numericCode": 600
+    },
+    {
+      "country": "Peru",
+      "alpha2Code": "PE",
+      "alpha3Code": "PER",
+      "numericCode": 604
+    },
+    {
+      "country": "Philippines",
+      "alpha2Code": "PH",
+      "alpha3Code": "PHL",
+      "numericCode": 608
+    },
+    {
+      "country": "Pitcairn",
+      "alpha2Code": "PN",
+      "alpha3Code": "PCN",
+      "numericCode": 612
+    },
+    {
+      "country": "Poland",
+      "alpha2Code": "PL",
+      "alpha3Code": "POL",
+      "numericCode": 616
+    },
+    {
+      "country": "Portugal",
+      "alpha2Code": "PT",
+      "alpha3Code": "PRT",
+      "numericCode": 620
+    },
+    {
+      "country": "Puerto Rico",
+      "alpha2Code": "PR",
+      "alpha3Code": "PRI",
+      "numericCode": 630
+    },
+    {
+      "country": "Qatar",
+      "alpha2Code": "QA",
+      "alpha3Code": "QAT",
+      "numericCode": 634
+    },
+    {
+      "country": "Réunion",
+      "alpha2Code": "RE",
+      "alpha3Code": "REU",
+      "numericCode": 638
+    },
+    {
+      "country": "Romania",
+      "alpha2Code": "RO",
+      "alpha3Code": "ROU",
+      "numericCode": 642
+    },
+    {
+      "country": "Russian Federation",
+      "alpha2Code": "RU",
+      "alpha3Code": "RUS",
+      "numericCode": 643
+    },
+    {
+      "country": "Rwanda",
+      "alpha2Code": "RW",
+      "alpha3Code": "RWA",
+      "numericCode": 646
+    },
+    {
+      "country": "Saint-Barthélemy",
+      "alpha2Code": "BL",
+      "alpha3Code": "BLM",
+      "numericCode": 652
+    },
+    {
+      "country": "Saint Helena",
+      "alpha2Code": "SH",
+      "alpha3Code": "SHN",
+      "numericCode": 654
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "alpha2Code": "KN",
+      "alpha3Code": "KNA",
+      "numericCode": 659
+    },
+    {
+      "country": "Saint Lucia",
+      "alpha2Code": "LC",
+      "alpha3Code": "LCA",
+      "numericCode": 662
+    },
+    {
+      "country": "Saint-Martin (French part)",
+      "alpha2Code": "MF",
+      "alpha3Code": "MAF",
+      "numericCode": 663
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "alpha2Code": "PM",
+      "alpha3Code": "SPM",
+      "numericCode": 666
+    },
+    {
+      "country": "Saint Vincent and Grenadines",
+      "alpha2Code": "VC",
+      "alpha3Code": "VCT",
+      "numericCode": 670
+    },
+    {
+      "country": "Samoa",
+      "alpha2Code": "WS",
+      "alpha3Code": "WSM",
+      "numericCode": 882
+    },
+    {
+      "country": "San Marino",
+      "alpha2Code": "SM",
+      "alpha3Code": "SMR",
+      "numericCode": 674
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "alpha2Code": "ST",
+      "alpha3Code": "STP",
+      "numericCode": 678
+    },
+    {
+      "country": "Saudi Arabia",
+      "alpha2Code": "SA",
+      "alpha3Code": "SAU",
+      "numericCode": 682
+    },
+    {
+      "country": "Senegal",
+      "alpha2Code": "SN",
+      "alpha3Code": "SEN",
+      "numericCode": 686
+    },
+    {
+      "country": "Serbia",
+      "alpha2Code": "RS",
+      "alpha3Code": "SRB",
+      "numericCode": 688
+    },
+    {
+      "country": "Seychelles",
+      "alpha2Code": "SC",
+      "alpha3Code": "SYC",
+      "numericCode": 690
+    },
+    {
+      "country": "Sierra Leone",
+      "alpha2Code": "SL",
+      "alpha3Code": "SLE",
+      "numericCode": 694
+    },
+    {
+      "country": "Singapore",
+      "alpha2Code": "SG",
+      "alpha3Code": "SGP",
+      "numericCode": 702
+    },
+    {
+      "country": "Slovakia",
+      "alpha2Code": "SK",
+      "alpha3Code": "SVK",
+      "numericCode": 703
+    },
+    {
+      "country": "Slovenia",
+      "alpha2Code": "SI",
+      "alpha3Code": "SVN",
+      "numericCode": 705
+    },
+    {
+      "country": "Solomon Islands",
+      "alpha2Code": "SB",
+      "alpha3Code": "SLB",
+      "numericCode": 90
+    },
+    {
+      "country": "Somalia",
+      "alpha2Code": "SO",
+      "alpha3Code": "SOM",
+      "numericCode": 706
+    },
+    {
+      "country": "South Africa",
+      "alpha2Code": "ZA",
+      "alpha3Code": "ZAF",
+      "numericCode": 710
+    },
+    {
+      "country": "South Georgia and the South Sandwich Islands",
+      "alpha2Code": "GS",
+      "alpha3Code": "SGS",
+      "numericCode": 239
+    },
+    {
+      "country": "South Sudan",
+      "alpha2Code": "SS",
+      "alpha3Code": "SSD",
+      "numericCode": 728
+    },
+    {
+      "country": "Spain",
+      "alpha2Code": "ES",
+      "alpha3Code": "ESP",
+      "numericCode": 724
+    },
+    {
+      "country": "Sri Lanka",
+      "alpha2Code": "LK",
+      "alpha3Code": "LKA",
+      "numericCode": 144
+    },
+    {
+      "country": "Sudan",
+      "alpha2Code": "SD",
+      "alpha3Code": "SDN",
+      "numericCode": 736
+    },
+    {
+      "country": "Suriname",
+      "alpha2Code": "SR",
+      "alpha3Code": "SUR",
+      "numericCode": 740
+    },
+    {
+      "country": "Svalbard and Jan Mayen Islands",
+      "alpha2Code": "SJ",
+      "alpha3Code": "SJM",
+      "numericCode": 744
+    },
+    {
+      "country": "Swaziland",
+      "alpha2Code": "SZ",
+      "alpha3Code": "SWZ",
+      "numericCode": 748
+    },
+    {
+      "country": "Sweden",
+      "alpha2Code": "SE",
+      "alpha3Code": "SWE",
+      "numericCode": 752
+    },
+    {
+      "country": "Switzerland",
+      "alpha2Code": "CH",
+      "alpha3Code": "CHE",
+      "numericCode": 756
+    },
+    {
+      "country": "Syrian Arab Republic (Syria)",
+      "alpha2Code": "SY",
+      "alpha3Code": "SYR",
+      "numericCode": 760
+    },
+    {
+      "country": "Taiwan, Republic of China",
+      "alpha2Code": "TW",
+      "alpha3Code": "TWN",
+      "numericCode": 158
+    },
+    {
+      "country": "Tajikistan",
+      "alpha2Code": "TJ",
+      "alpha3Code": "TJK",
+      "numericCode": 762
+    },
+    {
+      "country": "Tanzania, United Republic of",
+      "alpha2Code": "TZ",
+      "alpha3Code": "TZA",
+      "numericCode": 834
+    },
+    {
+      "country": "Thailand",
+      "alpha2Code": "TH",
+      "alpha3Code": "THA",
+      "numericCode": 764
+    },
+    {
+      "country": "Timor-Leste",
+      "alpha2Code": "TL",
+      "alpha3Code": "TLS",
+      "numericCode": 626
+    },
+    {
+      "country": "Togo",
+      "alpha2Code": "TG",
+      "alpha3Code": "TGO",
+      "numericCode": 768
+    },
+    {
+      "country": "Tokelau",
+      "alpha2Code": "TK",
+      "alpha3Code": "TKL",
+      "numericCode": 772
+    },
+    {
+      "country": "Tonga",
+      "alpha2Code": "TO",
+      "alpha3Code": "TON",
+      "numericCode": 776
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "alpha2Code": "TT",
+      "alpha3Code": "TTO",
+      "numericCode": 780
+    },
+    {
+      "country": "Tunisia",
+      "alpha2Code": "TN",
+      "alpha3Code": "TUN",
+      "numericCode": 788
+    },
+    {
+      "country": "Turkey",
+      "alpha2Code": "TR",
+      "alpha3Code": "TUR",
+      "numericCode": 792
+    },
+    {
+      "country": "Turkmenistan",
+      "alpha2Code": "TM",
+      "alpha3Code": "TKM",
+      "numericCode": 795
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "alpha2Code": "TC",
+      "alpha3Code": "TCA",
+      "numericCode": 796
+    },
+    {
+      "country": "Tuvalu",
+      "alpha2Code": "TV",
+      "alpha3Code": "TUV",
+      "numericCode": 798
+    },
+    {
+      "country": "Uganda",
+      "alpha2Code": "UG",
+      "alpha3Code": "UGA",
+      "numericCode": 800
+    },
+    {
+      "country": "Ukraine",
+      "alpha2Code": "UA",
+      "alpha3Code": "UKR",
+      "numericCode": 804
+    },
+    {
+      "country": "United Arab Emirates",
+      "alpha2Code": "AE",
+      "alpha3Code": "ARE",
+      "numericCode": 784
+    },
+    {
+      "country": "United Kingdom",
+      "alpha2Code": "GB",
+      "alpha3Code": "GBR",
+      "numericCode": 826
+    },
+    {
+      "country": "United States of America",
+      "alpha2Code": "US",
+      "alpha3Code": "USA",
+      "numericCode": 840
+    },
+    {
+      "country": "US Minor Outlying Islands",
+      "alpha2Code": "UM",
+      "alpha3Code": "UMI",
+      "numericCode": 581
+    },
+    {
+      "country": "Uruguay",
+      "alpha2Code": "UY",
+      "alpha3Code": "URY",
+      "numericCode": 858
+    },
+    {
+      "country": "Uzbekistan",
+      "alpha2Code": "UZ",
+      "alpha3Code": "UZB",
+      "numericCode": 860
+    },
+    {
+      "country": "Vanuatu",
+      "alpha2Code": "VU",
+      "alpha3Code": "VUT",
+      "numericCode": 548
+    },
+    {
+      "country": "Venezuela (Bolivarian Republic)",
+      "alpha2Code": "VE",
+      "alpha3Code": "VEN",
+      "numericCode": 862
+    },
+    {
+      "country": "Viet Nam",
+      "alpha2Code": "VN",
+      "alpha3Code": "VNM",
+      "numericCode": 704
+    },
+    {
+      "country": "Virgin Islands, US",
+      "alpha2Code": "VI",
+      "alpha3Code": "VIR",
+      "numericCode": 850
+    },
+    {
+      "country": "Wallis and Futuna Islands",
+      "alpha2Code": "WF",
+      "alpha3Code": "WLF",
+      "numericCode": 876
+    },
+    {
+      "country": "Western Sahara",
+      "alpha2Code": "EH",
+      "alpha3Code": "ESH",
+      "numericCode": 732
+    },
+    {
+      "country": "Yemen",
+      "alpha2Code": "YE",
+      "alpha3Code": "YEM",
+      "numericCode": 887
+    },
+    {
+      "country": "Zambia",
+      "alpha2Code": "ZM",
+      "alpha3Code": "ZMB",
+      "numericCode": 894
+    },
+    {
+      "country": "Zimbabwe",
+      "alpha2Code": "ZW",
+      "alpha3Code": "ZWE",
+      "numericCode": 716
+    }
+  ]
+}
